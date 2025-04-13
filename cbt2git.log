@@ -1,0 +1,1168 @@
+2025-04-13 23:31:29.977134 - Received CBT.V508.FILE853.PDS from FILE853.XMI 
+2025-04-13 23:31:29.979012 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:31:29.979120 - Found $$DOC.txt (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/$$DOC
+2025-04-13 23:31:29.979190 - Found $$GCC.txt (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/$$GCC
+2025-04-13 23:31:29.979250 - Found $$PDOS.txt (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/$$PDOS
+2025-04-13 23:31:29.979355 - Found $$SYS380.txt (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/$$SYS380
+2025-04-13 23:31:29.979425 - Found @FILE853.txt (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/@FILE853
+2025-04-13 23:31:29.979691 - Found GCCDOC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/GCCDOC.xmi
+2025-04-13 23:31:30.250707 - Received GCC.DOC from GCCDOC.xmi 
+2025-04-13 23:31:30.251324 - Found C@PARSE.txt (text/plain) in GCC.DOC, moved to GCCDOC/C@PARSE
+2025-04-13 23:31:30.251416 - Found COPYING.txt (text/plain) in GCC.DOC, moved to GCCDOC/COPYING
+2025-04-13 23:31:30.251505 - Found GCCCMS.txt (text/plain) in GCC.DOC, moved to GCCDOC/GCCCMS
+2025-04-13 23:31:30.251590 - Found GCCMVS.txt (text/plain) in GCC.DOC, moved to GCCDOC/GCCMVS
+2025-04-13 23:31:30.251729 - Found I370.txt (text/plain) in GCC.DOC, moved to GCCDOC/I370
+2025-04-13 23:31:30.251791 - Found XMITDOC.txt (text/plain) in GCC.DOC, moved to GCCDOC/XMITDOC
+2025-04-13 23:31:30.253607 - Found GCCINC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/GCCINC.xmi
+2025-04-13 23:31:32.846944 - Received GCC.INCLUDE from GCCINC.xmi 
+2025-04-13 23:31:32.852571 - Found @@HEADER.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/@@HEADER
+2025-04-13 23:31:32.852650 - Found ACCONFIG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/ACCONFIG
+2025-04-13 23:31:32.852742 - Found ALLOC@PO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/ALLOC@PO
+2025-04-13 23:31:32.852823 - Found ANSIDECL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/ANSIDECL
+2025-04-13 23:31:32.852911 - Found AUTO@HOS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/AUTO@HOS
+2025-04-13 23:31:32.852995 - Found BASIC@BL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/BASIC@BL
+2025-04-13 23:31:32.853060 - Found BCONFIG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/BCONFIG
+2025-04-13 23:31:32.853135 - Found BITMAP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/BITMAP
+2025-04-13 23:31:32.853196 - Found BUILTINA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/BUILTINA
+2025-04-13 23:31:32.853302 - Found BUILTIND.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/BUILTIND
+2025-04-13 23:31:32.853396 - Found BUILTINT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/BUILTINT
+2025-04-13 23:31:32.853512 - Found C@COMMON.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/C@COMMON
+2025-04-13 23:31:32.853574 - Found C@INCPAT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/C@INCPAT
+2025-04-13 23:31:32.853633 - Found C@PRAGMA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/C@PRAGMA
+2025-04-13 23:31:32.853705 - Found C@PRETTY.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/C@PRETTY
+2025-04-13 23:31:32.853772 - Found C@TREE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/C@TREE
+2025-04-13 23:31:32.853867 - Found CCOMMOND.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CCOMMOND
+2025-04-13 23:31:32.853942 - Found CFGHOOKS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CFGHOOKS
+2025-04-13 23:31:32.854002 - Found CFGLAYOU.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CFGLAYOU
+2025-04-13 23:31:32.854067 - Found CFGLOOP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CFGLOOP
+2025-04-13 23:31:32.854149 - Found CGRAPH.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CGRAPH
+2025-04-13 23:31:32.854212 - Found COLLECT2.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/COLLECT2
+2025-04-13 23:31:32.854273 - Found CONDITIO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CONDITIO
+2025-04-13 23:31:32.854385 - Found CONFIG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CONFIG
+2025-04-13 23:31:32.854484 - Found CONFIGAR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CONFIGAR
+2025-04-13 23:31:32.854554 - Found CONVERT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CONVERT
+2025-04-13 23:31:32.854638 - Found CORETYPE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CORETYPE
+2025-04-13 23:31:32.854715 - Found COVERAGE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/COVERAGE
+2025-04-13 23:31:32.854778 - Found CP@DEMAN.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CP@DEMAN
+2025-04-13 23:31:32.854875 - Found CPPDEFAU.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CPPDEFAU
+2025-04-13 23:31:32.854981 - Found CPPHASH.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CPPHASH
+2025-04-13 23:31:32.855074 - Found CPPLIB.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CPPLIB
+2025-04-13 23:31:32.855144 - Found CPPUCNID.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CPPUCNID
+2025-04-13 23:31:32.855204 - Found CSELIB.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/CSELIB
+2025-04-13 23:31:32.855264 - Found DBXOUT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DBXOUT
+2025-04-13 23:31:32.855326 - Found DEBUG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DEBUG
+2025-04-13 23:31:32.855399 - Found DEFAULTS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DEFAULTS
+2025-04-13 23:31:32.855473 - Found DEMANGLE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DEMANGLE
+2025-04-13 23:31:32.855539 - Found DF.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DF
+2025-04-13 23:31:32.855611 - Found DIAGNDEF.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DIAGNDEF
+2025-04-13 23:31:32.855676 - Found DIAGNOST.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DIAGNOST
+2025-04-13 23:31:32.855741 - Found DWARF.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DWARF
+2025-04-13 23:31:32.855815 - Found DWARF2.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DWARF2
+2025-04-13 23:31:32.855908 - Found DWARF2AS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DWARF2AS
+2025-04-13 23:31:32.855971 - Found DWARF2OU.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DWARF2OU
+2025-04-13 23:31:32.856033 - Found DYN@STRI.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/DYN@STRI
+2025-04-13 23:31:32.856097 - Found ERRORS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/ERRORS
+2025-04-13 23:31:32.856174 - Found ET@FORES.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/ET@FORES
+2025-04-13 23:31:32.856240 - Found EXCEPT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/EXCEPT
+2025-04-13 23:31:32.856318 - Found EXPR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/EXPR
+2025-04-13 23:31:32.856380 - Found FIBHEAP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/FIBHEAP
+2025-04-13 23:31:32.856439 - Found FILENAME.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/FILENAME
+2025-04-13 23:31:32.856525 - Found FLAGS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/FLAGS
+2025-04-13 23:31:32.856588 - Found FLOATFOR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/FLOATFOR
+2025-04-13 23:31:32.856647 - Found FNMATCH.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/FNMATCH
+2025-04-13 23:31:32.856731 - Found FUNCTION.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/FUNCTION
+2025-04-13 23:31:32.856798 - Found GBL@CTOR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GBL@CTOR
+2025-04-13 23:31:32.856877 - Found GCC.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GCC
+2025-04-13 23:31:32.856960 - Found GCOV@IO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GCOV@IO
+2025-04-13 23:31:32.857021 - Found GCOV@IOV.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GCOV@IOV
+2025-04-13 23:31:32.857087 - Found GCOVIOC.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GCOVIOC
+2025-04-13 23:31:32.857147 - Found GENATTRT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GENATTRT
+2025-04-13 23:31:32.857210 - Found GENCHECK.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GENCHECK
+2025-04-13 23:31:32.857285 - Found GENGTYPE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GENGTYPE
+2025-04-13 23:31:32.857369 - Found GENRTL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GENRTL
+2025-04-13 23:31:32.857429 - Found GENSUPPO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GENSUPPO
+2025-04-13 23:31:32.857492 - Found GETOPT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GETOPT
+2025-04-13 23:31:32.857556 - Found GGC.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GGC
+2025-04-13 23:31:32.857617 - Found GLIMITS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GLIMITS
+2025-04-13 23:31:32.857674 - Found GRAPH.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GRAPH
+2025-04-13 23:31:32.857731 - Found GSTAB.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GSTAB
+2025-04-13 23:31:32.857790 - Found GSYMS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GSYMS
+2025-04-13 23:31:32.857869 - Found GSYSLIMI.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GSYSLIMI
+2025-04-13 23:31:32.857953 - Found GT@ALIAS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@ALIAS
+2025-04-13 23:31:32.858015 - Found GT@BITMA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@BITMA
+2025-04-13 23:31:32.858074 - Found GT@C@COM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@C@COM
+2025-04-13 23:31:32.858203 - Found GT@C@DEC.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@C@DEC
+2025-04-13 23:31:32.858279 - Found GT@C@PAR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@C@PAR
+2025-04-13 23:31:32.858350 - Found GT@C@PRA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@C@PRA
+2025-04-13 23:31:32.858432 - Found GT@CFGLA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@CFGLA
+2025-04-13 23:31:32.858508 - Found GT@CGRAP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@CGRAP
+2025-04-13 23:31:32.858568 - Found GT@COVER.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@COVER
+2025-04-13 23:31:32.858628 - Found GT@CSELI.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@CSELI
+2025-04-13 23:31:32.858686 - Found GT@DBXOU.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@DBXOU
+2025-04-13 23:31:32.858745 - Found GT@DOJUM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@DOJUM
+2025-04-13 23:31:32.858842 - Found GT@DWARF.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@DWARF
+2025-04-13 23:31:32.858918 - Found GT@DWASM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@DWASM
+2025-04-13 23:31:32.858992 - Found GT@EMIT@.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@EMIT@
+2025-04-13 23:31:32.859072 - Found GT@EXCEP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@EXCEP
+2025-04-13 23:31:32.859133 - Found GT@EXPLO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@EXPLO
+2025-04-13 23:31:32.859192 - Found GT@EXPR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@EXPR
+2025-04-13 23:31:32.859249 - Found GT@FOLD@.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@FOLD@
+2025-04-13 23:31:32.859311 - Found GT@FUNCT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@FUNCT
+2025-04-13 23:31:32.859368 - Found GT@GCSE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@GCSE
+2025-04-13 23:31:32.859430 - Found GT@INTEG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@INTEG
+2025-04-13 23:31:32.859490 - Found GT@LANGH.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@LANGH
+2025-04-13 23:31:32.859556 - Found GT@LISTS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@LISTS
+2025-04-13 23:31:32.859623 - Found GT@OPTAB.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@OPTAB
+2025-04-13 23:31:32.859682 - Found GT@RA@BU.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@RA@BU
+2025-04-13 23:31:32.859740 - Found GT@REG@S.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@REG@S
+2025-04-13 23:31:32.859799 - Found GT@REGCL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@REGCL
+2025-04-13 23:31:32.859888 - Found GT@SDBOU.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@SDBOU
+2025-04-13 23:31:32.859969 - Found GT@STMT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@STMT
+2025-04-13 23:31:32.860032 - Found GT@STOR@.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@STOR@
+2025-04-13 23:31:32.860091 - Found GT@STRIN.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@STRIN
+2025-04-13 23:31:32.860166 - Found GT@TREE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@TREE
+2025-04-13 23:31:32.860244 - Found GT@VARAS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GT@VARAS
+2025-04-13 23:31:32.860305 - Found GTHR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR
+2025-04-13 23:31:32.860366 - Found GTHR@AIX.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@AIX
+2025-04-13 23:31:32.860431 - Found GTHR@DCE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@DCE
+2025-04-13 23:31:32.860505 - Found GTHR@GNA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@GNA
+2025-04-13 23:31:32.860573 - Found GTHR@POS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@POS
+2025-04-13 23:31:32.860632 - Found GTHR@RTE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@RTE
+2025-04-13 23:31:32.860700 - Found GTHR@SIN.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@SIN
+2025-04-13 23:31:32.860807 - Found GTHR@SOL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@SOL
+2025-04-13 23:31:32.860910 - Found GTHR@VXW.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@VXW
+2025-04-13 23:31:32.861028 - Found GTHR@WIN.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTHR@WIN
+2025-04-13 23:31:32.861122 - Found GTYP@GEN.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTYP@GEN
+2025-04-13 23:31:32.861189 - Found GTYPE@C.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTYPE@C
+2025-04-13 23:31:32.861270 - Found GTYPE@DE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/GTYPE@DE
+2025-04-13 23:31:32.861347 - Found HARD@REG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/HARD@REG
+2025-04-13 23:31:32.861413 - Found HASHTAB.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/HASHTAB
+2025-04-13 23:31:32.861472 - Found HASHTABL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/HASHTABL
+2025-04-13 23:31:32.861530 - Found HOOKS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/HOOKS
+2025-04-13 23:31:32.861589 - Found HOSTHDEF.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/HOSTHDEF
+2025-04-13 23:31:32.861660 - Found HOSTHOOK.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/HOSTHOOK
+2025-04-13 23:31:32.861732 - Found HWINT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/HWINT
+2025-04-13 23:31:32.861795 - Found I@CONSTA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/I@CONSTA
+2025-04-13 23:31:32.861872 - Found INPUT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INPUT
+2025-04-13 23:31:32.861936 - Found INSN@ADD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INSN@ADD
+2025-04-13 23:31:32.861995 - Found INSN@ATT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INSN@ATT
+2025-04-13 23:31:32.862054 - Found INSN@COD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INSN@COD
+2025-04-13 23:31:32.862149 - Found INSN@CON.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INSN@CON
+2025-04-13 23:31:32.862256 - Found INSN@FLA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INSN@FLA
+2025-04-13 23:31:32.862328 - Found INSN@MOD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INSN@MOD
+2025-04-13 23:31:32.862392 - Found INTEGRAT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INTEGRAT
+2025-04-13 23:31:32.862449 - Found INTL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/INTL
+2025-04-13 23:31:32.862568 - Found I370.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/I370
+2025-04-13 23:31:32.862629 - Found I370@PRO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/I370@PRO
+2025-04-13 23:31:32.862697 - Found LANGHDEF.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LANGHDEF
+2025-04-13 23:31:32.862766 - Found LANGHOOK.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LANGHOOK
+2025-04-13 23:31:32.862852 - Found LIBFUNCS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LIBFUNCS
+2025-04-13 23:31:32.862927 - Found LIBGCC2.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LIBGCC2
+2025-04-13 23:31:32.862994 - Found LIBIBERT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LIBIBERT
+2025-04-13 23:31:32.863052 - Found LIMITX.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LIMITX
+2025-04-13 23:31:32.863111 - Found LIMITY.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LIMITY
+2025-04-13 23:31:32.863174 - Found LINE@MAP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LINE@MAP
+2025-04-13 23:31:32.863234 - Found LINUX.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LINUX
+2025-04-13 23:31:32.863324 - Found LONGLONG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LONGLONG
+2025-04-13 23:31:32.863414 - Found LOOP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/LOOP
+2025-04-13 23:31:32.863482 - Found MACHMODD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MACHMODD
+2025-04-13 23:31:32.863547 - Found MACHMODE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MACHMODE
+2025-04-13 23:31:32.863608 - Found MD5.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MD5
+2025-04-13 23:31:32.863667 - Found MKDEPS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MKDEPS
+2025-04-13 23:31:32.863726 - Found MODE@CLA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MODE@CLA
+2025-04-13 23:31:32.863852 - Found MSHORT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MSHORT
+2025-04-13 23:31:32.863944 - Found MULTILIB.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MULTILIB
+2025-04-13 23:31:32.864010 - Found MVS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MVS
+2025-04-13 23:31:32.864074 - Found MVSDIGNU.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MVSDIGNU
+2025-04-13 23:31:32.864134 - Found MVSLE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MVSLE
+2025-04-13 23:31:32.864199 - Found MVSPDP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MVSPDP
+2025-04-13 23:31:32.864259 - Found MVSTEST.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MVSTEST
+2025-04-13 23:31:32.864320 - Found MVS38.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/MVS38
+2025-04-13 23:31:32.864384 - Found OBJALLOC.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/OBJALLOC
+2025-04-13 23:31:32.864456 - Found OBSTACK.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/OBSTACK
+2025-04-13 23:31:32.864530 - Found OE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/OE
+2025-04-13 23:31:32.864602 - Found OPTABS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/OPTABS
+2025-04-13 23:31:32.864676 - Found OPTIONS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/OPTIONS
+2025-04-13 23:31:32.864736 - Found OPTS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/OPTS
+2025-04-13 23:31:32.864808 - Found OUTPUT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/OUTPUT
+2025-04-13 23:31:32.864884 - Found PARAMS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PARAMS
+2025-04-13 23:31:32.864951 - Found PARAMSD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PARAMSD
+2025-04-13 23:31:32.865013 - Found PARTITIO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PARTITIO
+2025-04-13 23:31:32.865083 - Found PEX@COMM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PEX@COMM
+2025-04-13 23:31:32.865158 - Found PREDICT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PREDICT
+2025-04-13 23:31:32.865223 - Found PREDICTD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PREDICTD
+2025-04-13 23:31:32.865283 - Found PREFIX.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PREFIX
+2025-04-13 23:31:32.865351 - Found PRETTY@P.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PRETTY@P
+2025-04-13 23:31:32.865414 - Found PUREISO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/PUREISO
+2025-04-13 23:31:32.865498 - Found RA.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/RA
+2025-04-13 23:31:32.865567 - Found REAL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/REAL
+2025-04-13 23:31:32.865638 - Found RECOG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/RECOG
+2025-04-13 23:31:32.865715 - Found REGS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/REGS
+2025-04-13 23:31:32.865785 - Found RELOAD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/RELOAD
+2025-04-13 23:31:32.865863 - Found RESOURCE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/RESOURCE
+2025-04-13 23:31:32.865979 - Found RTL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/RTL
+2025-04-13 23:31:32.866074 - Found RTLD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/RTLD
+2025-04-13 23:31:32.866178 - Found SAFE@CTY.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SAFE@CTY
+2025-04-13 23:31:32.866278 - Found SBITMAP.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SBITMAP
+2025-04-13 23:31:32.866349 - Found SCAN.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SCAN
+2025-04-13 23:31:32.866437 - Found SCHED@IN.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SCHED@IN
+2025-04-13 23:31:32.866500 - Found SDBOUT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SDBOUT
+2025-04-13 23:31:32.866559 - Found SORT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SORT
+2025-04-13 23:31:32.866619 - Found SPECS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SPECS
+2025-04-13 23:31:32.866684 - Found SPLAY@TR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SPLAY@TR
+2025-04-13 23:31:32.866744 - Found SREAL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SREAL
+2025-04-13 23:31:32.866833 - Found STABD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/STABD
+2025-04-13 23:31:32.866903 - Found STACK.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/STACK
+2025-04-13 23:31:32.866965 - Found SYMCAT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SYMCAT
+2025-04-13 23:31:32.867072 - Found SYS@PROT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SYS@PROT
+2025-04-13 23:31:32.867137 - Found SYS@TYPE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SYS@TYPE
+2025-04-13 23:31:32.867211 - Found SYSTEM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/SYSTEM
+2025-04-13 23:31:32.867286 - Found TARGET.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TARGET
+2025-04-13 23:31:32.867372 - Found TARGET@D.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TARGET@D
+2025-04-13 23:31:32.867442 - Found TARGHOOK.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TARGHOOK
+2025-04-13 23:31:32.867502 - Found TERNARY.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TERNARY
+2025-04-13 23:31:32.867564 - Found TIMEVAR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TIMEVAR
+2025-04-13 23:31:32.867628 - Found TIMEVARD.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TIMEVARD
+2025-04-13 23:31:32.867688 - Found TM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TM
+2025-04-13 23:31:32.867747 - Found TM@P.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TM@P
+2025-04-13 23:31:32.867812 - Found TM@PREDS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TM@PREDS
+2025-04-13 23:31:32.867902 - Found TOPLEV.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TOPLEV
+2025-04-13 23:31:32.868061 - Found TREE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TREE
+2025-04-13 23:31:32.868134 - Found TREE@CHE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TREE@CHE
+2025-04-13 23:31:32.868196 - Found TREE@DUM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TREE@DUM
+2025-04-13 23:31:32.868257 - Found TREE@INL.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TREE@INL
+2025-04-13 23:31:32.868341 - Found TREED.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TREED
+2025-04-13 23:31:32.868406 - Found TSYSTEM.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TSYSTEM
+2025-04-13 23:31:32.868467 - Found TYPECLAS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/TYPECLAS
+2025-04-13 23:31:32.868540 - Found UNIXIO.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/UNIXIO
+2025-04-13 23:31:32.868608 - Found UNWIND.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/UNWIND
+2025-04-13 23:31:32.868668 - Found UNWIND@C.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/UNWIND@C
+2025-04-13 23:31:32.868735 - Found UNWIND@D.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/UNWIND@D
+2025-04-13 23:31:32.868801 - Found UNWIND@P.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/UNWIND@P
+2025-04-13 23:31:32.868879 - Found VALUE@PR.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/VALUE@PR
+2025-04-13 23:31:32.868951 - Found VARRAY.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/VARRAY
+2025-04-13 23:31:32.869011 - Found VERSION.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/VERSION
+2025-04-13 23:31:32.869090 - Found VMSDBG.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/VMSDBG
+2025-04-13 23:31:32.869158 - Found VSE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/VSE
+2025-04-13 23:31:32.869218 - Found XCOFF.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/XCOFF
+2025-04-13 23:31:32.869281 - Found XCOFFOUT.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/XCOFFOUT
+2025-04-13 23:31:32.869342 - Found XM@MVS.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/XM@MVS
+2025-04-13 23:31:32.869401 - Found XM@OE.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/XM@OE
+2025-04-13 23:31:32.869462 - Found XREGEX.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/XREGEX
+2025-04-13 23:31:32.869536 - Found XREGEX2.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/XREGEX2
+2025-04-13 23:31:32.869598 - Found XTENSA@C.txt (text/plain) in GCC.INCLUDE, moved to GCCINC/XTENSA@C
+2025-04-13 23:31:32.873328 - Found GCCJCL.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/GCCJCL.xmi
+2025-04-13 23:31:33.108048 - Received GCC.JCL from GCCJCL.xmi 
+2025-04-13 23:31:33.109176 - Found CHECKGEN.jcl (text/plain) in GCC.JCL, moved to GCCJCL/CHECKGEN
+2025-04-13 23:31:33.109247 - Found EXAMPLE.jcl (text/x-c) in GCC.JCL, moved to GCCJCL/EXAMPLE
+2025-04-13 23:31:33.109311 - Found EXAMPLE2.jcl (text/plain) in GCC.JCL, moved to GCCJCL/EXAMPLE2
+2025-04-13 23:31:33.109386 - Found GENCOMP.jcl (text/plain) in GCC.JCL, moved to GCCJCL/GENCOMP
+2025-04-13 23:31:33.109445 - Found INSTVSE.txt (text/plain) in GCC.JCL, moved to GCCJCL/INSTVSE
+2025-04-13 23:31:33.109502 - Found POSTGEN.jcl (text/plain) in GCC.JCL, moved to GCCJCL/POSTGEN
+2025-04-13 23:31:33.109560 - Found PREGEN.jcl (text/plain) in GCC.JCL, moved to GCCJCL/PREGEN
+2025-04-13 23:31:33.109621 - Found STAGE0A.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE0A
+2025-04-13 23:31:33.109680 - Found STAGE0B.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE0B
+2025-04-13 23:31:33.109737 - Found STAGE0C.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE0C
+2025-04-13 23:31:33.109794 - Found STAGE0D.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE0D
+2025-04-13 23:31:33.109855 - Found STAGE1A.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE1A
+2025-04-13 23:31:33.109919 - Found STAGE1B.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE1B
+2025-04-13 23:31:33.109983 - Found STAGE1B@.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE1B@
+2025-04-13 23:31:33.110047 - Found STAGE2A.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE2A
+2025-04-13 23:31:33.110127 - Found STAGE2B.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE2B
+2025-04-13 23:31:33.110233 - Found STAGE2C.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE2C
+2025-04-13 23:31:33.110296 - Found STAGE2D.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE2D
+2025-04-13 23:31:33.110359 - Found STAGE3A.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE3A
+2025-04-13 23:31:33.110420 - Found STAGE3B.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE3B
+2025-04-13 23:31:33.110486 - Found STAGE3C.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE3C
+2025-04-13 23:31:33.110549 - Found STAGE4.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE4
+2025-04-13 23:31:33.110610 - Found STAGE4Z.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE4Z
+2025-04-13 23:31:33.110668 - Found STAGE5@P.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE5@P
+2025-04-13 23:31:33.110728 - Found STAGE5A.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE5A
+2025-04-13 23:31:33.110786 - Found STAGE5B.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE5B
+2025-04-13 23:31:33.110843 - Found STAGE5C.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE5C
+2025-04-13 23:31:33.110900 - Found STAGE6.jcl (text/plain) in GCC.JCL, moved to GCCJCL/STAGE6
+2025-04-13 23:31:33.110957 - Found XMITGCC.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMITGCC
+2025-04-13 23:31:33.111014 - Found XMITTAPE.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMITTAPE
+2025-04-13 23:31:33.111072 - Found XMIT1.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT1
+2025-04-13 23:31:33.111129 - Found XMIT2.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT2
+2025-04-13 23:31:33.111191 - Found XMIT3.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT3
+2025-04-13 23:31:33.111248 - Found XMIT4.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT4
+2025-04-13 23:31:33.111304 - Found XMIT5.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT5
+2025-04-13 23:31:33.111363 - Found XMIT6.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT6
+2025-04-13 23:31:33.111421 - Found XMIT7.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT7
+2025-04-13 23:31:33.111477 - Found XMIT8.jcl (text/plain) in GCC.JCL, moved to GCCJCL/XMIT8
+2025-04-13 23:31:33.116917 - Found GCCLINK.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/GCCLINK.xmi
+2025-04-13 23:31:34.956957 - Received GCC.LINKLIB from GCCLINK.xmi 
+2025-04-13 23:31:34.959891 - Found GCC.bin (application/octet-stream) in GCC.LINKLIB, moved to GCCLINK/GCC
+2025-04-13 23:31:34.962533 - Found GCC370.bin (application/octet-stream) in GCC.LINKLIB, moved to GCCLINK/GCC370
+2025-04-13 23:31:34.964325 - Found GCCPROC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/GCCPROC.xmi
+2025-04-13 23:31:34.983381 - Received GCC.PROCLIB from GCCPROC.xmi 
+2025-04-13 23:31:34.983826 - Found GCCC.txt (text/plain) in GCC.PROCLIB, moved to GCCPROC/GCCC
+2025-04-13 23:31:34.983907 - Found GCCCL.txt (text/plain) in GCC.PROCLIB, moved to GCCPROC/GCCCL
+2025-04-13 23:31:34.983970 - Found GCCCLG.txt (text/plain) in GCC.PROCLIB, moved to GCCPROC/GCCCLG
+2025-04-13 23:31:34.993886 - Found GCCSRC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/GCCSRC.xmi
+2025-04-13 23:31:46.917105 - Received GCC.SOURCE from GCCSRC.xmi 
+2025-04-13 23:31:46.923947 - Found @DOPRNT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/@DOPRNT
+2025-04-13 23:31:46.924086 - Found ALIAS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ALIAS
+2025-04-13 23:31:46.924156 - Found ALLOC@PO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ALLOC@PO
+2025-04-13 23:31:46.924230 - Found ALLOCA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ALLOCA
+2025-04-13 23:31:46.924306 - Found ARGV.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ARGV
+2025-04-13 23:31:46.924368 - Found ASPRINTF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ASPRINTF
+2025-04-13 23:31:46.924427 - Found ATEXIT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ATEXIT
+2025-04-13 23:31:46.924494 - Found ATTRIBS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ATTRIBS
+2025-04-13 23:31:46.924554 - Found BASENAME.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BASENAME
+2025-04-13 23:31:46.924671 - Found BB@REORD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BB@REORD
+2025-04-13 23:31:46.924741 - Found BCMP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BCMP
+2025-04-13 23:31:46.924801 - Found BCOPY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BCOPY
+2025-04-13 23:31:46.924870 - Found BITMAP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BITMAP
+2025-04-13 23:31:46.924930 - Found BSEARCH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BSEARCH
+2025-04-13 23:31:46.925033 - Found BT@LOAD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BT@LOAD
+2025-04-13 23:31:46.925242 - Found BUILTINS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BUILTINS
+2025-04-13 23:31:46.925316 - Found BZERO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/BZERO
+2025-04-13 23:31:46.925391 - Found C@AUX@IN.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@AUX@IN
+2025-04-13 23:31:46.925562 - Found C@COMMON.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@COMMON
+2025-04-13 23:31:46.925628 - Found C@CONVER.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@CONVER
+2025-04-13 23:31:46.925698 - Found C@CPPBUI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@CPPBUI
+2025-04-13 23:31:46.925888 - Found C@DECL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@DECL
+2025-04-13 23:31:46.925955 - Found C@DUMP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@DUMP
+2025-04-13 23:31:46.926013 - Found C@ERRORS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@ERRORS
+2025-04-13 23:31:46.926155 - Found C@FORMAT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@FORMAT
+2025-04-13 23:31:46.926226 - Found C@INCPAT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@INCPAT
+2025-04-13 23:31:46.926298 - Found C@LANG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@LANG
+2025-04-13 23:31:46.926377 - Found C@LEX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@LEX
+2025-04-13 23:31:46.926441 - Found C@OBJC@C.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@OBJC@C
+2025-04-13 23:31:46.926523 - Found C@OPTS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@OPTS
+2025-04-13 23:31:46.926726 - Found C@PARSE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@PARSE
+2025-04-13 23:31:46.926803 - Found C@PCH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@PCH
+2025-04-13 23:31:46.926875 - Found C@PPOUTP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@PPOUTP
+2025-04-13 23:31:46.926942 - Found C@PRAGMA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@PRAGMA
+2025-04-13 23:31:46.927036 - Found C@PRETTY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@PRETTY
+2025-04-13 23:31:46.927123 - Found C@SEMANT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@SEMANT
+2025-04-13 23:31:46.927330 - Found C@TYPECK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/C@TYPECK
+2025-04-13 23:31:46.927425 - Found CALLER@S.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CALLER@S
+2025-04-13 23:31:46.927486 - Found CALLOC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CALLOC
+2025-04-13 23:31:46.927640 - Found CALLS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CALLS
+2025-04-13 23:31:46.927718 - Found CFG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFG
+2025-04-13 23:31:46.927797 - Found CFGANAL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGANAL
+2025-04-13 23:31:46.927884 - Found CFGBUILD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGBUILD
+2025-04-13 23:31:46.927991 - Found CFGCLEAN.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGCLEAN
+2025-04-13 23:31:46.928052 - Found CFGHOOKS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGHOOKS
+2025-04-13 23:31:46.928132 - Found CFGLAYOU.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGLAYOU
+2025-04-13 23:31:46.928212 - Found CFGLOOP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGLOOP
+2025-04-13 23:31:46.928306 - Found CFGLOOPA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGLOOPA
+2025-04-13 23:31:46.928396 - Found CFGLOOPM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGLOOPM
+2025-04-13 23:31:46.928514 - Found CFGRTL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CFGRTL
+2025-04-13 23:31:46.928589 - Found CGRAPH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CGRAPH
+2025-04-13 23:31:46.928677 - Found CGRAPHUN.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CGRAPHUN
+2025-04-13 23:31:46.928737 - Found CHOOSE@T.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CHOOSE@T
+2025-04-13 23:31:46.928795 - Found CLOCK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CLOCK
+2025-04-13 23:31:46.928903 - Found COLLECT2.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/COLLECT2
+2025-04-13 23:31:46.929250 - Found COMBINE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/COMBINE
+2025-04-13 23:31:46.929328 - Found CONCAT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CONCAT
+2025-04-13 23:31:46.929405 - Found CONFLICT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CONFLICT
+2025-04-13 23:31:46.929480 - Found CONVERT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CONVERT
+2025-04-13 23:31:46.929540 - Found COPYSIGN.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/COPYSIGN
+2025-04-13 23:31:46.929613 - Found COVERAGE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/COVERAGE
+2025-04-13 23:31:46.929749 - Found CP@DEMAN.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CP@DEMAN
+2025-04-13 23:31:46.929815 - Found CP@DEMIN.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CP@DEMIN
+2025-04-13 23:31:46.929956 - Found CPLUS@DE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPLUS@DE
+2025-04-13 23:31:46.930042 - Found CPPCHARS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPCHARS
+2025-04-13 23:31:46.930103 - Found CPPDEFAU.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPDEFAU
+2025-04-13 23:31:46.930203 - Found CPPERROR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPERROR
+2025-04-13 23:31:46.930296 - Found CPPEXP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPEXP
+2025-04-13 23:31:46.930391 - Found CPPFILES.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPFILES
+2025-04-13 23:31:46.930454 - Found CPPHASH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPHASH
+2025-04-13 23:31:46.930522 - Found CPPINIT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPINIT
+2025-04-13 23:31:46.930609 - Found CPPLEX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPLEX
+2025-04-13 23:31:46.930704 - Found CPPLIB.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPLIB
+2025-04-13 23:31:46.930796 - Found CPPMACRO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPMACRO
+2025-04-13 23:31:46.930879 - Found CPPPCH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPPCH
+2025-04-13 23:31:46.930943 - Found CPPSPEC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPSPEC
+2025-04-13 23:31:46.931021 - Found CPPTRAD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CPPTRAD
+2025-04-13 23:31:46.931090 - Found CRTSTUFF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CRTSTUFF
+2025-04-13 23:31:46.931308 - Found CSE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CSE
+2025-04-13 23:31:46.931411 - Found CSELIB.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/CSELIB
+2025-04-13 23:31:46.931535 - Found DBXOUT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DBXOUT
+2025-04-13 23:31:46.931598 - Found DEBUG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DEBUG
+2025-04-13 23:31:46.931724 - Found DF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DF
+2025-04-13 23:31:46.931798 - Found DIAGNOST.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DIAGNOST
+2025-04-13 23:31:46.931898 - Found DOJUMP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DOJUMP
+2025-04-13 23:31:46.931978 - Found DOLOOP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DOLOOP
+2025-04-13 23:31:46.932052 - Found DOMINANC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DOMINANC
+2025-04-13 23:31:46.932112 - Found DUMMY@CO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DUMMY@CO
+2025-04-13 23:31:46.932187 - Found DWARF2AS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DWARF2AS
+2025-04-13 23:31:46.932546 - Found DWARF2OU.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DWARF2OU
+2025-04-13 23:31:46.932638 - Found DYN@STRI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/DYN@STRI
+2025-04-13 23:31:46.932792 - Found EMIT@RTL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/EMIT@RTL
+2025-04-13 23:31:46.932867 - Found ERRORS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ERRORS
+2025-04-13 23:31:46.932941 - Found ET@FORES.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/ET@FORES
+2025-04-13 23:31:46.933063 - Found EXCEPT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/EXCEPT
+2025-04-13 23:31:46.933160 - Found EXPLOW.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/EXPLOW
+2025-04-13 23:31:46.933327 - Found EXPMED.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/EXPMED
+2025-04-13 23:31:46.933592 - Found EXPR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/EXPR
+2025-04-13 23:31:46.933656 - Found FDMATCH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FDMATCH
+2025-04-13 23:31:46.933715 - Found FFS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FFS
+2025-04-13 23:31:46.933779 - Found FIBHEAP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FIBHEAP
+2025-04-13 23:31:46.933917 - Found FINAL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FINAL
+2025-04-13 23:31:46.933999 - Found FIX@HEAD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FIX@HEAD
+2025-04-13 23:31:46.934072 - Found FLOATFOR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FLOATFOR
+2025-04-13 23:31:46.934246 - Found FLOW.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FLOW
+2025-04-13 23:31:46.934314 - Found FNMATCH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FNMATCH
+2025-04-13 23:31:46.934561 - Found FOLD@CON.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FOLD@CON
+2025-04-13 23:31:46.934641 - Found FP@TEST.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FP@TEST
+2025-04-13 23:31:46.934865 - Found FUNCTION.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/FUNCTION
+2025-04-13 23:31:46.935055 - Found GCC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GCC
+2025-04-13 23:31:46.935163 - Found GCCSPEC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GCCSPEC
+2025-04-13 23:31:46.935278 - Found GCOV.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GCOV
+2025-04-13 23:31:46.935349 - Found GCOV@DUM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GCOV@DUM
+2025-04-13 23:31:46.935428 - Found GCOV@IO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GCOV@IO
+2025-04-13 23:31:46.935491 - Found GCOV@IOV.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GCOV@IOV
+2025-04-13 23:31:46.935701 - Found GCSE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GCSE
+2025-04-13 23:31:46.935770 - Found GEN@PROT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GEN@PROT
+2025-04-13 23:31:46.935855 - Found GENATTR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENATTR
+2025-04-13 23:31:46.936030 - Found GENATTRT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENATTRT
+2025-04-13 23:31:46.936315 - Found GENAUTOM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENAUTOM
+2025-04-13 23:31:46.936394 - Found GENCHECK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENCHECK
+2025-04-13 23:31:46.936459 - Found GENCODES.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENCODES
+2025-04-13 23:31:46.936522 - Found GENCONDI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENCONDI
+2025-04-13 23:31:46.936588 - Found GENCONFI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENCONFI
+2025-04-13 23:31:46.936647 - Found GENCONST.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENCONST
+2025-04-13 23:31:46.936720 - Found GENEMIT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENEMIT
+2025-04-13 23:31:46.936795 - Found GENEXTRA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENEXTRA
+2025-04-13 23:31:46.936865 - Found GENFLAGS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENFLAGS
+2025-04-13 23:31:46.936931 - Found GENGENRT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENGENRT
+2025-04-13 23:31:46.937039 - Found GENGTYPE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENGTYPE
+2025-04-13 23:31:46.937128 - Found GENMODES.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENMODES
+2025-04-13 23:31:46.937196 - Found GENOPINI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENOPINI
+2025-04-13 23:31:46.937272 - Found GENOUTPU.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENOUTPU
+2025-04-13 23:31:46.937347 - Found GENPEEP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENPEEP
+2025-04-13 23:31:46.937420 - Found GENPREDS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENPREDS
+2025-04-13 23:31:46.937529 - Found GENRECOG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENRECOG
+2025-04-13 23:31:46.937602 - Found GENRTL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENRTL
+2025-04-13 23:31:46.937665 - Found GENSCR.x-c (text/x-c) in GCC.SOURCE, moved to GCCSRC/GENSCR
+2025-04-13 23:31:46.937741 - Found GENSUPPO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GENSUPPO
+2025-04-13 23:31:46.937801 - Found GETCWD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GETCWD
+2025-04-13 23:31:46.937879 - Found GETOPT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GETOPT
+2025-04-13 23:31:46.937942 - Found GETOPT1.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GETOPT1
+2025-04-13 23:31:46.938001 - Found GETPAGES.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GETPAGES
+2025-04-13 23:31:46.938062 - Found GETPWD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GETPWD
+2025-04-13 23:31:46.938196 - Found GETRUNTI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GETRUNTI
+2025-04-13 23:31:46.938309 - Found GGC@COMM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GGC@COMM
+2025-04-13 23:31:46.938427 - Found GGC@NONE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GGC@NONE
+2025-04-13 23:31:46.938596 - Found GGC@PAGE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GGC@PAGE
+2025-04-13 23:31:46.938730 - Found GGC@SIMP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GGC@SIMP
+2025-04-13 23:31:46.938881 - Found GGC@ZONE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GGC@ZONE
+2025-04-13 23:31:46.939049 - Found GLOBAL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GLOBAL
+2025-04-13 23:31:46.939172 - Found GMON.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GMON
+2025-04-13 23:31:46.939288 - Found GRAPH.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GRAPH
+2025-04-13 23:31:46.939396 - Found GTHR@GNA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GTHR@GNA
+2025-04-13 23:31:46.939503 - Found GTHR@POS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GTHR@POS
+2025-04-13 23:31:46.939736 - Found GTYPE@DE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/GTYPE@DE
+2025-04-13 23:31:46.939944 - Found HAIFA@SC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/HAIFA@SC
+2025-04-13 23:31:46.940077 - Found HASHTAB.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/HASHTAB
+2025-04-13 23:31:46.940205 - Found HASHTABL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/HASHTABL
+2025-04-13 23:31:46.940328 - Found HEX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/HEX
+2025-04-13 23:31:46.940438 - Found HOOKS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/HOOKS
+2025-04-13 23:31:46.940548 - Found HOST@DEF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/HOST@DEF
+2025-04-13 23:31:46.940741 - Found IFCVT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/IFCVT
+2025-04-13 23:31:46.940851 - Found INDEX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INDEX
+2025-04-13 23:31:46.940958 - Found INSN@ATT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@ATT
+2025-04-13 23:31:46.941107 - Found INSN@EMI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@EMI
+2025-04-13 23:31:46.941232 - Found INSN@EXT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@EXT
+2025-04-13 23:31:46.941354 - Found INSN@MOD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@MOD
+2025-04-13 23:31:46.941466 - Found INSN@OPI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@OPI
+2025-04-13 23:31:46.941669 - Found INSN@OUT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@OUT
+2025-04-13 23:31:46.941788 - Found INSN@PEE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@PEE
+2025-04-13 23:31:46.941957 - Found INSN@REC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSN@REC
+2025-04-13 23:31:46.942073 - Found INSQUE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INSQUE
+2025-04-13 23:31:46.942340 - Found INTEGRAT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INTEGRAT
+2025-04-13 23:31:46.942456 - Found INTL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/INTL
+2025-04-13 23:31:46.942643 - Found I370.x-c (text/x-c) in GCC.SOURCE, moved to GCCSRC/I370
+2025-04-13 23:31:46.942762 - Found I370@C.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/I370@C
+2025-04-13 23:31:46.942925 - Found JUMP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/JUMP
+2025-04-13 23:31:46.943056 - Found LANGHOOK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LANGHOOK
+2025-04-13 23:31:46.943168 - Found LBASENAM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LBASENAM
+2025-04-13 23:31:46.943318 - Found LCM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LCM
+2025-04-13 23:31:46.943466 - Found LIBGCC2.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LIBGCC2
+2025-04-13 23:31:46.943597 - Found LIBGCOV.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LIBGCOV
+2025-04-13 23:31:46.943721 - Found LINE@MAP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LINE@MAP
+2025-04-13 23:31:46.943843 - Found LISTS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LISTS
+2025-04-13 23:31:46.944032 - Found LOCAL@AL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LOCAL@AL
+2025-04-13 23:31:46.944440 - Found LOOP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LOOP
+2025-04-13 23:31:46.944573 - Found LOOP@INI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LOOP@INI
+2025-04-13 23:31:46.944722 - Found LOOP@UNR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LOOP@UNR
+2025-04-13 23:31:46.944838 - Found LOOP@UNS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LOOP@UNS
+2025-04-13 23:31:46.944931 - Found LREALPAT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/LREALPAT
+2025-04-13 23:31:46.945005 - Found MAIN.x-c (text/x-c) in GCC.SOURCE, moved to GCCSRC/MAIN
+2025-04-13 23:31:46.945074 - Found MAKE@REL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MAKE@REL
+2025-04-13 23:31:46.945141 - Found MAKE@TEM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MAKE@TEM
+2025-04-13 23:31:46.945219 - Found MD5.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MD5
+2025-04-13 23:31:46.945280 - Found MEMCHR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MEMCHR
+2025-04-13 23:31:46.945339 - Found MEMCMP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MEMCMP
+2025-04-13 23:31:46.945397 - Found MEMCPY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MEMCPY
+2025-04-13 23:31:46.945462 - Found MEMMOVE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MEMMOVE
+2025-04-13 23:31:46.945536 - Found MEMPCPY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MEMPCPY
+2025-04-13 23:31:46.945599 - Found MEMSET.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MEMSET
+2025-04-13 23:31:46.945689 - Found MIPS@TDU.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MIPS@TDU
+2025-04-13 23:31:46.945843 - Found MIPS@TFI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MIPS@TFI
+2025-04-13 23:31:46.945911 - Found MKDEPS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MKDEPS
+2025-04-13 23:31:46.945973 - Found MKSTEMPS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MKSTEMPS
+2025-04-13 23:31:46.946061 - Found MPW.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MPW
+2025-04-13 23:31:46.946146 - Found MSDOS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/MSDOS
+2025-04-13 23:31:46.946212 - Found MVSDUPX.x-c (text/x-c) in GCC.SOURCE, moved to GCCSRC/MVSDUPX
+2025-04-13 23:31:46.946272 - Found MVSTEST.x-c (text/x-c) in GCC.SOURCE, moved to GCCSRC/MVSTEST
+2025-04-13 23:31:46.946334 - Found OBJALLOC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/OBJALLOC
+2025-04-13 23:31:46.946407 - Found OBSTACK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/OBSTACK
+2025-04-13 23:31:46.946567 - Found OPTABS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/OPTABS
+2025-04-13 23:31:46.946680 - Found OPTIONS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/OPTIONS
+2025-04-13 23:31:46.946775 - Found OPTS.p (text/x-pascal) in GCC.SOURCE, moved to GCCSRC/OPTS
+2025-04-13 23:31:46.946837 - Found PARAMS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PARAMS
+2025-04-13 23:31:46.946900 - Found PARTITIO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PARTITIO
+2025-04-13 23:31:46.946961 - Found PEX@DJGP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PEX@DJGP
+2025-04-13 23:31:46.947023 - Found PEX@MPW.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PEX@MPW
+2025-04-13 23:31:46.947084 - Found PEX@MSDO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PEX@MSDO
+2025-04-13 23:31:46.947144 - Found PEX@OS2.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PEX@OS2
+2025-04-13 23:31:46.947223 - Found PEX@UNIX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PEX@UNIX
+2025-04-13 23:31:46.947293 - Found PEX@WIN3.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PEX@WIN3
+2025-04-13 23:31:46.947358 - Found PHYSMEM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PHYSMEM
+2025-04-13 23:31:46.947449 - Found POSTRELO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/POSTRELO
+2025-04-13 23:31:46.947530 - Found PREDICT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PREDICT
+2025-04-13 23:31:46.947598 - Found PREFIX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PREFIX
+2025-04-13 23:31:46.947668 - Found PRETTY@P.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PRETTY@P
+2025-04-13 23:31:46.947751 - Found PRINT@RT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PRINT@RT
+2025-04-13 23:31:46.947850 - Found PRINT@TR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PRINT@TR
+2025-04-13 23:31:46.947941 - Found PROFILE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PROFILE
+2025-04-13 23:31:46.948089 - Found PROTOIZE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PROTOIZE
+2025-04-13 23:31:46.948154 - Found PUTENV.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/PUTENV
+2025-04-13 23:31:46.948242 - Found RA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RA
+2025-04-13 23:31:46.948402 - Found RA@BUILD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RA@BUILD
+2025-04-13 23:31:46.948527 - Found RA@COLOR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RA@COLOR
+2025-04-13 23:31:46.948611 - Found RA@DEBUG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RA@DEBUG
+2025-04-13 23:31:46.948720 - Found RA@REWRI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RA@REWRI
+2025-04-13 23:31:46.948791 - Found RANDOM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RANDOM
+2025-04-13 23:31:46.948864 - Found READ@RTL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/READ@RTL
+2025-04-13 23:31:46.949007 - Found REAL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/REAL
+2025-04-13 23:31:46.949139 - Found RECOG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RECOG
+2025-04-13 23:31:46.949255 - Found REG@STAC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/REG@STAC
+2025-04-13 23:31:46.949364 - Found REGCLASS.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/REGCLASS
+2025-04-13 23:31:46.949597 - Found REGEX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/REGEX
+2025-04-13 23:31:46.949722 - Found REGMOVE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/REGMOVE
+2025-04-13 23:31:46.949818 - Found REGRENAM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/REGRENAM
+2025-04-13 23:31:46.950031 - Found RELOAD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RELOAD
+2025-04-13 23:31:46.950327 - Found RELOAD1.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RELOAD1
+2025-04-13 23:31:46.950400 - Found RENAME.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RENAME
+2025-04-13 23:31:46.950535 - Found REORG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/REORG
+2025-04-13 23:31:46.950626 - Found RESOURCE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RESOURCE
+2025-04-13 23:31:46.950701 - Found RINDEX.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RINDEX
+2025-04-13 23:31:46.950780 - Found RTL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RTL
+2025-04-13 23:31:46.950842 - Found RTL@ERRO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RTL@ERRO
+2025-04-13 23:31:46.950961 - Found RTLANAL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/RTLANAL
+2025-04-13 23:31:46.951040 - Found SAFE@CTY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SAFE@CTY
+2025-04-13 23:31:46.951111 - Found SBITMAP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SBITMAP
+2025-04-13 23:31:46.951175 - Found SCAN.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SCAN
+2025-04-13 23:31:46.951255 - Found SCAN@DEC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SCAN@DEC
+2025-04-13 23:31:46.951347 - Found SCHED@DE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SCHED@DE
+2025-04-13 23:31:46.951479 - Found SCHED@EB.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SCHED@EB
+2025-04-13 23:31:46.951600 - Found SCHED@RG.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SCHED@RG
+2025-04-13 23:31:46.951678 - Found SCHED@VI.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SCHED@VI
+2025-04-13 23:31:46.951778 - Found SDBOUT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SDBOUT
+2025-04-13 23:31:46.951869 - Found SETENV.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SETENV
+2025-04-13 23:31:46.951949 - Found SIBCALL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SIBCALL
+2025-04-13 23:31:46.952011 - Found SIGSETMA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SIGSETMA
+2025-04-13 23:31:46.952143 - Found SIMPLIFY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SIMPLIFY
+2025-04-13 23:31:46.952206 - Found SNPRINTF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SNPRINTF
+2025-04-13 23:31:46.952273 - Found SORT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SORT
+2025-04-13 23:31:46.952339 - Found SPACES.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SPACES
+2025-04-13 23:31:46.952426 - Found SPLAY@TR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SPLAY@TR
+2025-04-13 23:31:46.952493 - Found SREAL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/SREAL
+2025-04-13 23:31:46.952678 - Found STMT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STMT
+2025-04-13 23:31:46.952782 - Found STOR@LAY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STOR@LAY
+2025-04-13 23:31:46.952846 - Found STPCPY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STPCPY
+2025-04-13 23:31:46.952909 - Found STPNCPY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STPNCPY
+2025-04-13 23:31:46.952986 - Found STRCASEC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRCASEC
+2025-04-13 23:31:46.953048 - Found STRCHR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRCHR
+2025-04-13 23:31:46.953108 - Found STRDUP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRDUP
+2025-04-13 23:31:46.953184 - Found STRERROR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRERROR
+2025-04-13 23:31:46.953250 - Found STRINGPO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRINGPO
+2025-04-13 23:31:46.953310 - Found STRNCASE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRNCASE
+2025-04-13 23:31:46.953368 - Found STRNCMP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRNCMP
+2025-04-13 23:31:46.953426 - Found STRRCHR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRRCHR
+2025-04-13 23:31:46.953505 - Found STRSIGNA.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRSIGNA
+2025-04-13 23:31:46.953573 - Found STRSTR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRSTR
+2025-04-13 23:31:46.953637 - Found STRTOD.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRTOD
+2025-04-13 23:31:46.953702 - Found STRTOL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRTOL
+2025-04-13 23:31:46.953761 - Found STRTOUL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STRTOUL
+2025-04-13 23:31:46.953820 - Found STUB@OBJ.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/STUB@OBJ
+2025-04-13 23:31:46.953888 - Found TARGHOOK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TARGHOOK
+2025-04-13 23:31:46.953947 - Found TERNARY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TERNARY
+2025-04-13 23:31:46.954015 - Found TIMEVAR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TIMEVAR
+2025-04-13 23:31:46.954097 - Found TLINK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TLINK
+2025-04-13 23:31:46.954187 - Found TMPNAM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TMPNAM
+2025-04-13 23:31:46.954328 - Found TOPLEV.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TOPLEV
+2025-04-13 23:31:46.954397 - Found TRACER.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TRACER
+2025-04-13 23:31:46.954549 - Found TREE.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TREE
+2025-04-13 23:31:46.954627 - Found TREE@DUM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TREE@DUM
+2025-04-13 23:31:46.954741 - Found TREE@INL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TREE@INL
+2025-04-13 23:31:46.954806 - Found TREE@OPT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/TREE@OPT
+2025-04-13 23:31:46.954873 - Found UNIXIO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/UNIXIO
+2025-04-13 23:31:46.955033 - Found UNROLL.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/UNROLL
+2025-04-13 23:31:46.955102 - Found UNWIND@C.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/UNWIND@C
+2025-04-13 23:31:46.955184 - Found UNWIND@D.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/UNWIND@D
+2025-04-13 23:31:46.955265 - Found UNWIND@S.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/UNWIND@S
+2025-04-13 23:31:46.955339 - Found VALUE@PR.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VALUE@PR
+2025-04-13 23:31:46.955490 - Found VARASM.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VARASM
+2025-04-13 23:31:46.955561 - Found VARRAY.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VARRAY
+2025-04-13 23:31:46.955626 - Found VASPRINT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VASPRINT
+2025-04-13 23:31:46.955696 - Found VERSION.x-c (text/x-c) in GCC.SOURCE, moved to GCCSRC/VERSION
+2025-04-13 23:31:46.955756 - Found VFORK.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VFORK
+2025-04-13 23:31:46.955841 - Found VFPRINTF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VFPRINTF
+2025-04-13 23:31:46.955942 - Found VMSDBGOU.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VMSDBGOU
+2025-04-13 23:31:46.956005 - Found VPRINTF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VPRINTF
+2025-04-13 23:31:46.956068 - Found VSNPRINT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VSNPRINT
+2025-04-13 23:31:46.956129 - Found VSPRINTF.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/VSPRINTF
+2025-04-13 23:31:46.956189 - Found WAITPID.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/WAITPID
+2025-04-13 23:31:46.956258 - Found WEB.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/WEB
+2025-04-13 23:31:46.956319 - Found XATEXIT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/XATEXIT
+2025-04-13 23:31:46.956402 - Found XCOFFOUT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/XCOFFOUT
+2025-04-13 23:31:46.956466 - Found XEXIT.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/XEXIT
+2025-04-13 23:31:46.956528 - Found XMALLOC.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/XMALLOC
+2025-04-13 23:31:46.956587 - Found XMEMDUP.p (text/x-pascal) in GCC.SOURCE, moved to GCCSRC/XMEMDUP
+2025-04-13 23:31:46.956646 - Found XSTRDUP.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/XSTRDUP
+2025-04-13 23:31:46.956706 - Found XSTRERRO.txt (text/plain) in GCC.SOURCE, moved to GCCSRC/XSTRERRO
+2025-04-13 23:31:47.012182 - Found GCCS2.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/GCCS2.xmi
+2025-04-13 23:31:56.154446 - Received GCC.S2 from GCCS2.xmi 
+2025-04-13 23:31:56.159594 - Found @@MEMMGR.txt (text/plain) in GCC.S2, moved to GCCS2/@@MEMMGR
+2025-04-13 23:31:56.159779 - Found ALIAS.txt (text/plain) in GCC.S2, moved to GCCS2/ALIAS
+2025-04-13 23:31:56.159858 - Found ALLOC@PO.txt (text/plain) in GCC.S2, moved to GCCS2/ALLOC@PO
+2025-04-13 23:31:56.159921 - Found ALLOCA.txt (text/plain) in GCC.S2, moved to GCCS2/ALLOCA
+2025-04-13 23:31:56.159982 - Found ARGV.txt (text/plain) in GCC.S2, moved to GCCS2/ARGV
+2025-04-13 23:31:56.160042 - Found ASPRINTF.txt (text/plain) in GCC.S2, moved to GCCS2/ASPRINTF
+2025-04-13 23:31:56.160105 - Found ASSERT.txt (text/plain) in GCC.S2, moved to GCCS2/ASSERT
+2025-04-13 23:31:56.160172 - Found ATTRIBS.txt (text/plain) in GCC.S2, moved to GCCS2/ATTRIBS
+2025-04-13 23:31:56.160231 - Found BASENAME.txt (text/plain) in GCC.S2, moved to GCCS2/BASENAME
+2025-04-13 23:31:56.160334 - Found BB@REORD.txt (text/plain) in GCC.S2, moved to GCCS2/BB@REORD
+2025-04-13 23:31:56.160397 - Found BCMP.txt (text/plain) in GCC.S2, moved to GCCS2/BCMP
+2025-04-13 23:31:56.160457 - Found BCOPY.txt (text/plain) in GCC.S2, moved to GCCS2/BCOPY
+2025-04-13 23:31:56.160537 - Found BITMAP.txt (text/plain) in GCC.S2, moved to GCCS2/BITMAP
+2025-04-13 23:31:56.160639 - Found BT@LOAD.txt (text/plain) in GCC.S2, moved to GCCS2/BT@LOAD
+2025-04-13 23:31:56.160936 - Found BUILTINS.txt (text/plain) in GCC.S2, moved to GCCS2/BUILTINS
+2025-04-13 23:31:56.161000 - Found BZERO.txt (text/plain) in GCC.S2, moved to GCCS2/BZERO
+2025-04-13 23:31:56.161074 - Found C@AUX@IN.txt (text/plain) in GCC.S2, moved to GCCS2/C@AUX@IN
+2025-04-13 23:31:56.161675 - Found C@COMMON.txt (text/plain) in GCC.S2, moved to GCCS2/C@COMMON
+2025-04-13 23:31:56.161747 - Found C@CONVER.txt (text/plain) in GCC.S2, moved to GCCS2/C@CONVER
+2025-04-13 23:31:56.161833 - Found C@CPPBUI.txt (text/plain) in GCC.S2, moved to GCCS2/C@CPPBUI
+2025-04-13 23:31:56.162142 - Found C@DECL.txt (text/plain) in GCC.S2, moved to GCCS2/C@DECL
+2025-04-13 23:31:56.162214 - Found C@DUMP.txt (text/plain) in GCC.S2, moved to GCCS2/C@DUMP
+2025-04-13 23:31:56.162294 - Found C@ERRORS.txt (text/plain) in GCC.S2, moved to GCCS2/C@ERRORS
+2025-04-13 23:31:56.162476 - Found C@FORMAT.txt (text/plain) in GCC.S2, moved to GCCS2/C@FORMAT
+2025-04-13 23:31:56.162545 - Found C@INCPAT.txt (text/plain) in GCC.S2, moved to GCCS2/C@INCPAT
+2025-04-13 23:31:56.162622 - Found C@LANG.txt (text/plain) in GCC.S2, moved to GCCS2/C@LANG
+2025-04-13 23:31:56.162713 - Found C@LEX.txt (text/plain) in GCC.S2, moved to GCCS2/C@LEX
+2025-04-13 23:31:56.162785 - Found C@OBJC@C.txt (text/plain) in GCC.S2, moved to GCCS2/C@OBJC@C
+2025-04-13 23:31:56.162888 - Found C@OPTS.txt (text/plain) in GCC.S2, moved to GCCS2/C@OPTS
+2025-04-13 23:31:56.163419 - Found C@PARSE.txt (text/plain) in GCC.S2, moved to GCCS2/C@PARSE
+2025-04-13 23:31:56.163508 - Found C@PCH.txt (text/plain) in GCC.S2, moved to GCCS2/C@PCH
+2025-04-13 23:31:56.163590 - Found C@PPOUTP.txt (text/plain) in GCC.S2, moved to GCCS2/C@PPOUTP
+2025-04-13 23:31:56.163659 - Found C@PRAGMA.txt (text/plain) in GCC.S2, moved to GCCS2/C@PRAGMA
+2025-04-13 23:31:56.163799 - Found C@PRETTY.txt (text/plain) in GCC.S2, moved to GCCS2/C@PRETTY
+2025-04-13 23:31:56.163913 - Found C@SEMANT.txt (text/plain) in GCC.S2, moved to GCCS2/C@SEMANT
+2025-04-13 23:31:56.164517 - Found C@TYPECK.txt (text/plain) in GCC.S2, moved to GCCS2/C@TYPECK
+2025-04-13 23:31:56.164649 - Found CALLER@S.txt (text/plain) in GCC.S2, moved to GCCS2/CALLER@S
+2025-04-13 23:31:56.165039 - Found CALLS.txt (text/plain) in GCC.S2, moved to GCCS2/CALLS
+2025-04-13 23:31:56.165215 - Found CFG.txt (text/plain) in GCC.S2, moved to GCCS2/CFG
+2025-04-13 23:31:56.165319 - Found CFGANAL.txt (text/plain) in GCC.S2, moved to GCCS2/CFGANAL
+2025-04-13 23:31:56.165455 - Found CFGBUILD.txt (text/plain) in GCC.S2, moved to GCCS2/CFGBUILD
+2025-04-13 23:31:56.165592 - Found CFGCLEAN.txt (text/plain) in GCC.S2, moved to GCCS2/CFGCLEAN
+2025-04-13 23:31:56.165656 - Found CFGHOOKS.txt (text/plain) in GCC.S2, moved to GCCS2/CFGHOOKS
+2025-04-13 23:31:56.165754 - Found CFGLAYOU.txt (text/plain) in GCC.S2, moved to GCCS2/CFGLAYOU
+2025-04-13 23:31:56.165879 - Found CFGLOOP.txt (text/plain) in GCC.S2, moved to GCCS2/CFGLOOP
+2025-04-13 23:31:56.166086 - Found CFGLOOPA.txt (text/plain) in GCC.S2, moved to GCCS2/CFGLOOPA
+2025-04-13 23:31:56.166251 - Found CFGLOOPM.txt (text/plain) in GCC.S2, moved to GCCS2/CFGLOOPM
+2025-04-13 23:31:56.166429 - Found CFGRTL.txt (text/plain) in GCC.S2, moved to GCCS2/CFGRTL
+2025-04-13 23:31:56.166526 - Found CGRAPH.txt (text/plain) in GCC.S2, moved to GCCS2/CGRAPH
+2025-04-13 23:31:56.166643 - Found CGRAPHUN.txt (text/plain) in GCC.S2, moved to GCCS2/CGRAPHUN
+2025-04-13 23:31:56.167153 - Found COMBINE.txt (text/plain) in GCC.S2, moved to GCCS2/COMBINE
+2025-04-13 23:31:56.167224 - Found CONCAT.txt (text/plain) in GCC.S2, moved to GCCS2/CONCAT
+2025-04-13 23:31:56.167301 - Found CONFLICT.txt (text/plain) in GCC.S2, moved to GCCS2/CONFLICT
+2025-04-13 23:31:56.167392 - Found CONVERT.txt (text/plain) in GCC.S2, moved to GCCS2/CONVERT
+2025-04-13 23:31:56.167512 - Found COVERAGE.txt (text/plain) in GCC.S2, moved to GCCS2/COVERAGE
+2025-04-13 23:31:56.167675 - Found CP@DEMAN.txt (text/plain) in GCC.S2, moved to GCCS2/CP@DEMAN
+2025-04-13 23:31:56.167740 - Found CP@DEMIN.txt (text/plain) in GCC.S2, moved to GCCS2/CP@DEMIN
+2025-04-13 23:31:56.167959 - Found CPLUS@DE.txt (text/plain) in GCC.S2, moved to GCCS2/CPLUS@DE
+2025-04-13 23:31:56.168089 - Found CPPCHARS.txt (text/plain) in GCC.S2, moved to GCCS2/CPPCHARS
+2025-04-13 23:31:56.168149 - Found CPPDEFAU.txt (text/plain) in GCC.S2, moved to GCCS2/CPPDEFAU
+2025-04-13 23:31:56.168213 - Found CPPERROR.txt (text/plain) in GCC.S2, moved to GCCS2/CPPERROR
+2025-04-13 23:31:56.168320 - Found CPPEXP.txt (text/plain) in GCC.S2, moved to GCCS2/CPPEXP
+2025-04-13 23:31:56.168418 - Found CPPFILES.txt (text/plain) in GCC.S2, moved to GCCS2/CPPFILES
+2025-04-13 23:31:56.168484 - Found CPPHASH.txt (text/plain) in GCC.S2, moved to GCCS2/CPPHASH
+2025-04-13 23:31:56.168554 - Found CPPINIT.txt (text/plain) in GCC.S2, moved to GCCS2/CPPINIT
+2025-04-13 23:31:56.168676 - Found CPPLEX.txt (text/plain) in GCC.S2, moved to GCCS2/CPPLEX
+2025-04-13 23:31:56.168805 - Found CPPLIB.txt (text/plain) in GCC.S2, moved to GCCS2/CPPLIB
+2025-04-13 23:31:56.168914 - Found CPPMACRO.txt (text/plain) in GCC.S2, moved to GCCS2/CPPMACRO
+2025-04-13 23:31:56.169002 - Found CPPPCH.txt (text/plain) in GCC.S2, moved to GCCS2/CPPPCH
+2025-04-13 23:31:56.169070 - Found CPPSPEC.txt (text/plain) in GCC.S2, moved to GCCS2/CPPSPEC
+2025-04-13 23:31:56.169157 - Found CPPTRAD.txt (text/plain) in GCC.S2, moved to GCCS2/CPPTRAD
+2025-04-13 23:31:56.169466 - Found CSE.txt (text/plain) in GCC.S2, moved to GCCS2/CSE
+2025-04-13 23:31:56.169610 - Found CSELIB.txt (text/plain) in GCC.S2, moved to GCCS2/CSELIB
+2025-04-13 23:31:56.169710 - Found CTYPE.txt (text/plain) in GCC.S2, moved to GCCS2/CTYPE
+2025-04-13 23:31:56.169787 - Found DBXOUT.txt (text/plain) in GCC.S2, moved to GCCS2/DBXOUT
+2025-04-13 23:31:56.169859 - Found DEBUG.txt (text/plain) in GCC.S2, moved to GCCS2/DEBUG
+2025-04-13 23:31:56.170135 - Found DF.txt (text/plain) in GCC.S2, moved to GCCS2/DF
+2025-04-13 23:31:56.170222 - Found DIAGNOST.txt (text/plain) in GCC.S2, moved to GCCS2/DIAGNOST
+2025-04-13 23:31:56.170411 - Found DOJUMP.txt (text/plain) in GCC.S2, moved to GCCS2/DOJUMP
+2025-04-13 23:31:56.170560 - Found DOMINANC.txt (text/plain) in GCC.S2, moved to GCCS2/DOMINANC
+2025-04-13 23:31:56.170656 - Found DWARF2AS.txt (text/plain) in GCC.S2, moved to GCCS2/DWARF2AS
+2025-04-13 23:31:56.170826 - Found DWARF2OU.txt (text/plain) in GCC.S2, moved to GCCS2/DWARF2OU
+2025-04-13 23:31:56.170936 - Found DYN@STRI.txt (text/plain) in GCC.S2, moved to GCCS2/DYN@STRI
+2025-04-13 23:31:56.171349 - Found EMIT@RTL.txt (text/plain) in GCC.S2, moved to GCCS2/EMIT@RTL
+2025-04-13 23:31:56.171428 - Found ERRNO.txt (text/plain) in GCC.S2, moved to GCCS2/ERRNO
+2025-04-13 23:31:56.171504 - Found ET@FORES.txt (text/plain) in GCC.S2, moved to GCCS2/ET@FORES
+2025-04-13 23:31:56.171777 - Found EXCEPT.txt (text/plain) in GCC.S2, moved to GCCS2/EXCEPT
+2025-04-13 23:31:56.171938 - Found EXPLOW.txt (text/plain) in GCC.S2, moved to GCCS2/EXPLOW
+2025-04-13 23:31:56.172431 - Found EXPMED.txt (text/plain) in GCC.S2, moved to GCCS2/EXPMED
+2025-04-13 23:31:56.172973 - Found EXPR.txt (text/plain) in GCC.S2, moved to GCCS2/EXPR
+2025-04-13 23:31:56.173045 - Found FDMATCH.txt (text/plain) in GCC.S2, moved to GCCS2/FDMATCH
+2025-04-13 23:31:56.173104 - Found FFS.txt (text/plain) in GCC.S2, moved to GCCS2/FFS
+2025-04-13 23:31:56.173179 - Found FIBHEAP.txt (text/plain) in GCC.S2, moved to GCCS2/FIBHEAP
+2025-04-13 23:31:56.173329 - Found FINAL.txt (text/plain) in GCC.S2, moved to GCCS2/FINAL
+2025-04-13 23:31:56.173410 - Found FLOATFOR.txt (text/plain) in GCC.S2, moved to GCCS2/FLOATFOR
+2025-04-13 23:31:56.173642 - Found FLOW.txt (text/plain) in GCC.S2, moved to GCCS2/FLOW
+2025-04-13 23:31:56.173716 - Found FNMATCH.txt (text/plain) in GCC.S2, moved to GCCS2/FNMATCH
+2025-04-13 23:31:56.174241 - Found FOLD@CON.txt (text/plain) in GCC.S2, moved to GCCS2/FOLD@CON
+2025-04-13 23:31:56.174772 - Found FUNCTION.txt (text/plain) in GCC.S2, moved to GCCS2/FUNCTION
+2025-04-13 23:31:56.175231 - Found GCC.txt (text/plain) in GCC.S2, moved to GCCS2/GCC
+2025-04-13 23:31:56.175317 - Found GCCSPEC.txt (text/plain) in GCC.S2, moved to GCCS2/GCCSPEC
+2025-04-13 23:31:56.175753 - Found GCSE.txt (text/plain) in GCC.S2, moved to GCCS2/GCSE
+2025-04-13 23:31:56.175886 - Found GENRTL.txt (text/plain) in GCC.S2, moved to GCCS2/GENRTL
+2025-04-13 23:31:56.175960 - Found GETCWD.txt (text/plain) in GCC.S2, moved to GCCS2/GETCWD
+2025-04-13 23:31:56.176058 - Found GETOPT.txt (text/plain) in GCC.S2, moved to GCCS2/GETOPT
+2025-04-13 23:31:56.176123 - Found GETOPT1.txt (text/plain) in GCC.S2, moved to GCCS2/GETOPT1
+2025-04-13 23:31:56.176198 - Found GETPAGES.txt (text/plain) in GCC.S2, moved to GCCS2/GETPAGES
+2025-04-13 23:31:56.176260 - Found GETPWD.txt (text/plain) in GCC.S2, moved to GCCS2/GETPWD
+2025-04-13 23:31:56.176332 - Found GETRUNTI.txt (text/plain) in GCC.S2, moved to GCCS2/GETRUNTI
+2025-04-13 23:31:56.176417 - Found GGC@COMM.txt (text/plain) in GCC.S2, moved to GCCS2/GGC@COMM
+2025-04-13 23:31:56.176565 - Found GGC@PAGE.txt (text/plain) in GCC.S2, moved to GCCS2/GGC@PAGE
+2025-04-13 23:31:56.176757 - Found GLOBAL.txt (text/plain) in GCC.S2, moved to GCCS2/GLOBAL
+2025-04-13 23:31:56.176851 - Found GRAPH.txt (text/plain) in GCC.S2, moved to GCCS2/GRAPH
+2025-04-13 23:31:56.177156 - Found GTYPE@DE.txt (text/plain) in GCC.S2, moved to GCCS2/GTYPE@DE
+2025-04-13 23:31:56.177230 - Found HAIFA@SC.txt (text/plain) in GCC.S2, moved to GCCS2/HAIFA@SC
+2025-04-13 23:31:56.177309 - Found HASHTAB.txt (text/plain) in GCC.S2, moved to GCCS2/HASHTAB
+2025-04-13 23:31:56.177378 - Found HASHTABL.txt (text/plain) in GCC.S2, moved to GCCS2/HASHTABL
+2025-04-13 23:31:56.177442 - Found HEX.txt (text/plain) in GCC.S2, moved to GCCS2/HEX
+2025-04-13 23:31:56.177524 - Found HOOKS.txt (text/plain) in GCC.S2, moved to GCCS2/HOOKS
+2025-04-13 23:31:56.177587 - Found HOST@DEF.txt (text/plain) in GCC.S2, moved to GCCS2/HOST@DEF
+2025-04-13 23:31:56.177715 - Found IFCVT.txt (text/plain) in GCC.S2, moved to GCCS2/IFCVT
+2025-04-13 23:31:56.177776 - Found INDEX.txt (text/plain) in GCC.S2, moved to GCCS2/INDEX
+2025-04-13 23:31:56.177838 - Found INSN@ATT.txt (text/plain) in GCC.S2, moved to GCCS2/INSN@ATT
+2025-04-13 23:31:56.177977 - Found INSN@EMI.txt (text/plain) in GCC.S2, moved to GCCS2/INSN@EMI
+2025-04-13 23:31:56.178046 - Found INSN@EXT.txt (text/plain) in GCC.S2, moved to GCCS2/INSN@EXT
+2025-04-13 23:31:56.178125 - Found INSN@MOD.txt (text/plain) in GCC.S2, moved to GCCS2/INSN@MOD
+2025-04-13 23:31:56.178194 - Found INSN@OPI.txt (text/plain) in GCC.S2, moved to GCCS2/INSN@OPI
+2025-04-13 23:31:56.178440 - Found INSN@OUT.txt (text/plain) in GCC.S2, moved to GCCS2/INSN@OUT
+2025-04-13 23:31:56.178574 - Found INSN@REC.txt (text/plain) in GCC.S2, moved to GCCS2/INSN@REC
+2025-04-13 23:31:56.178641 - Found INSQUE.txt (text/plain) in GCC.S2, moved to GCCS2/INSQUE
+2025-04-13 23:31:56.178794 - Found INTEGRAT.txt (text/plain) in GCC.S2, moved to GCCS2/INTEGRAT
+2025-04-13 23:31:56.178902 - Found I370.txt (text/plain) in GCC.S2, moved to GCCS2/I370
+2025-04-13 23:31:56.178969 - Found I370@C.txt (text/plain) in GCC.S2, moved to GCCS2/I370@C
+2025-04-13 23:31:56.179109 - Found JUMP.txt (text/plain) in GCC.S2, moved to GCCS2/JUMP
+2025-04-13 23:31:56.179255 - Found LANGHOOK.txt (text/plain) in GCC.S2, moved to GCCS2/LANGHOOK
+2025-04-13 23:31:56.179356 - Found LBASENAM.txt (text/plain) in GCC.S2, moved to GCCS2/LBASENAM
+2025-04-13 23:31:56.179477 - Found LCM.txt (text/plain) in GCC.S2, moved to GCCS2/LCM
+2025-04-13 23:31:56.179587 - Found LINE@MAP.txt (text/plain) in GCC.S2, moved to GCCS2/LINE@MAP
+2025-04-13 23:31:56.179684 - Found LISTS.txt (text/plain) in GCC.S2, moved to GCCS2/LISTS
+2025-04-13 23:31:56.179888 - Found LOCAL@AL.txt (text/plain) in GCC.S2, moved to GCCS2/LOCAL@AL
+2025-04-13 23:31:56.179965 - Found LOCALE.txt (text/plain) in GCC.S2, moved to GCCS2/LOCALE
+2025-04-13 23:31:56.180307 - Found LOOP.txt (text/plain) in GCC.S2, moved to GCCS2/LOOP
+2025-04-13 23:31:56.180377 - Found LOOP@INI.txt (text/plain) in GCC.S2, moved to GCCS2/LOOP@INI
+2025-04-13 23:31:56.180488 - Found LOOP@UNR.txt (text/plain) in GCC.S2, moved to GCCS2/LOOP@UNR
+2025-04-13 23:31:56.180619 - Found LOOP@UNS.txt (text/plain) in GCC.S2, moved to GCCS2/LOOP@UNS
+2025-04-13 23:31:56.180729 - Found LREALPAT.txt (text/plain) in GCC.S2, moved to GCCS2/LREALPAT
+2025-04-13 23:31:56.180828 - Found MAKE@REL.txt (text/plain) in GCC.S2, moved to GCCS2/MAKE@REL
+2025-04-13 23:31:56.180915 - Found MAKE@TEM.txt (text/plain) in GCC.S2, moved to GCCS2/MAKE@TEM
+2025-04-13 23:31:56.181034 - Found MATH.txt (text/plain) in GCC.S2, moved to GCCS2/MATH
+2025-04-13 23:31:56.181125 - Found MD5.txt (text/plain) in GCC.S2, moved to GCCS2/MD5
+2025-04-13 23:31:56.181191 - Found MEMPCPY.txt (text/plain) in GCC.S2, moved to GCCS2/MEMPCPY
+2025-04-13 23:31:56.181262 - Found MKDEPS.txt (text/plain) in GCC.S2, moved to GCCS2/MKDEPS
+2025-04-13 23:31:56.181322 - Found MKSTEMPS.txt (text/plain) in GCC.S2, moved to GCCS2/MKSTEMPS
+2025-04-13 23:31:56.181386 - Found OBJALLOC.txt (text/plain) in GCC.S2, moved to GCCS2/OBJALLOC
+2025-04-13 23:31:56.181459 - Found OBSTACK.txt (text/plain) in GCC.S2, moved to GCCS2/OBSTACK
+2025-04-13 23:31:56.181896 - Found OPTABS.txt (text/plain) in GCC.S2, moved to GCCS2/OPTABS
+2025-04-13 23:31:56.182040 - Found OPTIONS.txt (text/plain) in GCC.S2, moved to GCCS2/OPTIONS
+2025-04-13 23:31:56.182182 - Found OPTS.txt (text/plain) in GCC.S2, moved to GCCS2/OPTS
+2025-04-13 23:31:56.182253 - Found PARAMS.txt (text/plain) in GCC.S2, moved to GCCS2/PARAMS
+2025-04-13 23:31:56.182319 - Found PARTITIO.txt (text/plain) in GCC.S2, moved to GCCS2/PARTITIO
+2025-04-13 23:31:56.182380 - Found PHYSMEM.txt (text/plain) in GCC.S2, moved to GCCS2/PHYSMEM
+2025-04-13 23:31:56.182510 - Found POSTRELO.txt (text/plain) in GCC.S2, moved to GCCS2/POSTRELO
+2025-04-13 23:31:56.182708 - Found PREDICT.txt (text/plain) in GCC.S2, moved to GCCS2/PREDICT
+2025-04-13 23:31:56.182797 - Found PREFIX.txt (text/plain) in GCC.S2, moved to GCCS2/PREFIX
+2025-04-13 23:31:56.182889 - Found PRETTY@P.txt (text/plain) in GCC.S2, moved to GCCS2/PRETTY@P
+2025-04-13 23:31:56.183021 - Found PRINT@RT.txt (text/plain) in GCC.S2, moved to GCCS2/PRINT@RT
+2025-04-13 23:31:56.183183 - Found PRINT@TR.txt (text/plain) in GCC.S2, moved to GCCS2/PRINT@TR
+2025-04-13 23:31:56.183346 - Found PROFILE.txt (text/plain) in GCC.S2, moved to GCCS2/PROFILE
+2025-04-13 23:31:56.183444 - Found PUTENV.txt (text/plain) in GCC.S2, moved to GCCS2/PUTENV
+2025-04-13 23:31:56.183574 - Found RA.txt (text/plain) in GCC.S2, moved to GCCS2/RA
+2025-04-13 23:31:56.183812 - Found RA@BUILD.txt (text/plain) in GCC.S2, moved to GCCS2/RA@BUILD
+2025-04-13 23:31:56.184045 - Found RA@COLOR.txt (text/plain) in GCC.S2, moved to GCCS2/RA@COLOR
+2025-04-13 23:31:56.184222 - Found RA@DEBUG.txt (text/plain) in GCC.S2, moved to GCCS2/RA@DEBUG
+2025-04-13 23:31:56.184429 - Found RA@REWRI.txt (text/plain) in GCC.S2, moved to GCCS2/RA@REWRI
+2025-04-13 23:31:56.184542 - Found RANDOM.txt (text/plain) in GCC.S2, moved to GCCS2/RANDOM
+2025-04-13 23:31:56.184796 - Found REAL.txt (text/plain) in GCC.S2, moved to GCCS2/REAL
+2025-04-13 23:31:56.185006 - Found RECOG.txt (text/plain) in GCC.S2, moved to GCCS2/RECOG
+2025-04-13 23:31:56.185081 - Found REG@STAC.txt (text/plain) in GCC.S2, moved to GCCS2/REG@STAC
+2025-04-13 23:31:56.185211 - Found REGCLASS.txt (text/plain) in GCC.S2, moved to GCCS2/REGCLASS
+2025-04-13 23:31:56.185342 - Found REGMOVE.txt (text/plain) in GCC.S2, moved to GCCS2/REGMOVE
+2025-04-13 23:31:56.185465 - Found REGRENAM.txt (text/plain) in GCC.S2, moved to GCCS2/REGRENAM
+2025-04-13 23:31:56.185746 - Found RELOAD.txt (text/plain) in GCC.S2, moved to GCCS2/RELOAD
+2025-04-13 23:31:56.186030 - Found RELOAD1.txt (text/plain) in GCC.S2, moved to GCCS2/RELOAD1
+2025-04-13 23:31:56.186158 - Found RESOURCE.txt (text/plain) in GCC.S2, moved to GCCS2/RESOURCE
+2025-04-13 23:31:56.186230 - Found RINDEX.txt (text/plain) in GCC.S2, moved to GCCS2/RINDEX
+2025-04-13 23:31:56.186326 - Found RTL.txt (text/plain) in GCC.S2, moved to GCCS2/RTL
+2025-04-13 23:31:56.186392 - Found RTL@ERRO.txt (text/plain) in GCC.S2, moved to GCCS2/RTL@ERRO
+2025-04-13 23:31:56.186562 - Found RTLANAL.txt (text/plain) in GCC.S2, moved to GCCS2/RTLANAL
+2025-04-13 23:31:56.186642 - Found SAFE@CTY.txt (text/plain) in GCC.S2, moved to GCCS2/SAFE@CTY
+2025-04-13 23:31:56.186731 - Found SBITMAP.txt (text/plain) in GCC.S2, moved to GCCS2/SBITMAP
+2025-04-13 23:31:56.186792 - Found SDBOUT.txt (text/plain) in GCC.S2, moved to GCCS2/SDBOUT
+2025-04-13 23:31:56.186856 - Found SETENV.txt (text/plain) in GCC.S2, moved to GCCS2/SETENV
+2025-04-13 23:31:56.186914 - Found SETJMP.txt (text/plain) in GCC.S2, moved to GCCS2/SETJMP
+2025-04-13 23:31:56.186988 - Found SIBCALL.txt (text/plain) in GCC.S2, moved to GCCS2/SIBCALL
+2025-04-13 23:31:56.187047 - Found SIGNAL.txt (text/plain) in GCC.S2, moved to GCCS2/SIGNAL
+2025-04-13 23:31:56.187226 - Found SIMPLIFY.txt (text/plain) in GCC.S2, moved to GCCS2/SIMPLIFY
+2025-04-13 23:31:56.187291 - Found SNPRINTF.txt (text/plain) in GCC.S2, moved to GCCS2/SNPRINTF
+2025-04-13 23:31:56.187352 - Found SORT.txt (text/plain) in GCC.S2, moved to GCCS2/SORT
+2025-04-13 23:31:56.187420 - Found SPACES.txt (text/plain) in GCC.S2, moved to GCCS2/SPACES
+2025-04-13 23:31:56.187493 - Found SPLAY@TR.txt (text/plain) in GCC.S2, moved to GCCS2/SPLAY@TR
+2025-04-13 23:31:56.187565 - Found SREAL.txt (text/plain) in GCC.S2, moved to GCCS2/SREAL
+2025-04-13 23:31:56.187634 - Found START.txt (text/plain) in GCC.S2, moved to GCCS2/START
+2025-04-13 23:31:56.187855 - Found STDIO.txt (text/plain) in GCC.S2, moved to GCCS2/STDIO
+2025-04-13 23:31:56.187995 - Found STDLIB.txt (text/plain) in GCC.S2, moved to GCCS2/STDLIB
+2025-04-13 23:31:56.188367 - Found STMT.txt (text/plain) in GCC.S2, moved to GCCS2/STMT
+2025-04-13 23:31:56.188553 - Found STOR@LAY.txt (text/plain) in GCC.S2, moved to GCCS2/STOR@LAY
+2025-04-13 23:31:56.188632 - Found STPCPY.txt (text/plain) in GCC.S2, moved to GCCS2/STPCPY
+2025-04-13 23:31:56.188700 - Found STPNCPY.txt (text/plain) in GCC.S2, moved to GCCS2/STPNCPY
+2025-04-13 23:31:56.188765 - Found STRCASEC.txt (text/plain) in GCC.S2, moved to GCCS2/STRCASEC
+2025-04-13 23:31:56.188826 - Found STRDUP.txt (text/plain) in GCC.S2, moved to GCCS2/STRDUP
+2025-04-13 23:31:56.188898 - Found STRING.txt (text/plain) in GCC.S2, moved to GCCS2/STRING
+2025-04-13 23:31:56.188974 - Found STRINGPO.txt (text/plain) in GCC.S2, moved to GCCS2/STRINGPO
+2025-04-13 23:31:56.189039 - Found STRNCASE.txt (text/plain) in GCC.S2, moved to GCCS2/STRNCASE
+2025-04-13 23:31:56.189104 - Found STRSIGNA.txt (text/plain) in GCC.S2, moved to GCCS2/STRSIGNA
+2025-04-13 23:31:56.189206 - Found STUB@OBJ.txt (text/plain) in GCC.S2, moved to GCCS2/STUB@OBJ
+2025-04-13 23:31:56.189288 - Found TARGHOOK.txt (text/plain) in GCC.S2, moved to GCCS2/TARGHOOK
+2025-04-13 23:31:56.189353 - Found TERNARY.txt (text/plain) in GCC.S2, moved to GCCS2/TERNARY
+2025-04-13 23:31:56.189440 - Found TIME.txt (text/plain) in GCC.S2, moved to GCCS2/TIME
+2025-04-13 23:31:56.189514 - Found TIMEVAR.txt (text/plain) in GCC.S2, moved to GCCS2/TIMEVAR
+2025-04-13 23:31:56.189714 - Found TOPLEV.txt (text/plain) in GCC.S2, moved to GCCS2/TOPLEV
+2025-04-13 23:31:56.189790 - Found TRACER.txt (text/plain) in GCC.S2, moved to GCCS2/TRACER
+2025-04-13 23:31:56.190011 - Found TREE.txt (text/plain) in GCC.S2, moved to GCCS2/TREE
+2025-04-13 23:31:56.190105 - Found TREE@DUM.txt (text/plain) in GCC.S2, moved to GCCS2/TREE@DUM
+2025-04-13 23:31:56.190271 - Found TREE@INL.txt (text/plain) in GCC.S2, moved to GCCS2/TREE@INL
+2025-04-13 23:31:56.190346 - Found TREE@OPT.txt (text/plain) in GCC.S2, moved to GCCS2/TREE@OPT
+2025-04-13 23:31:56.190418 - Found UNIXIO.txt (text/plain) in GCC.S2, moved to GCCS2/UNIXIO
+2025-04-13 23:31:56.190568 - Found UNROLL.txt (text/plain) in GCC.S2, moved to GCCS2/UNROLL
+2025-04-13 23:31:56.190666 - Found VALUE@PR.txt (text/plain) in GCC.S2, moved to GCCS2/VALUE@PR
+2025-04-13 23:31:56.190903 - Found VARASM.txt (text/plain) in GCC.S2, moved to GCCS2/VARASM
+2025-04-13 23:31:56.190971 - Found VARRAY.txt (text/plain) in GCC.S2, moved to GCCS2/VARRAY
+2025-04-13 23:31:56.191041 - Found VASPRINT.txt (text/plain) in GCC.S2, moved to GCCS2/VASPRINT
+2025-04-13 23:31:56.191103 - Found VERSION.txt (text/plain) in GCC.S2, moved to GCCS2/VERSION
+2025-04-13 23:31:56.191163 - Found VPRINTF.txt (text/plain) in GCC.S2, moved to GCCS2/VPRINTF
+2025-04-13 23:31:56.191225 - Found VSNPRINT.txt (text/plain) in GCC.S2, moved to GCCS2/VSNPRINT
+2025-04-13 23:31:56.191287 - Found WAITPID.txt (text/plain) in GCC.S2, moved to GCCS2/WAITPID
+2025-04-13 23:31:56.191355 - Found WEB.txt (text/plain) in GCC.S2, moved to GCCS2/WEB
+2025-04-13 23:31:56.191418 - Found XATEXIT.txt (text/plain) in GCC.S2, moved to GCCS2/XATEXIT
+2025-04-13 23:31:56.191477 - Found XEXIT.txt (text/plain) in GCC.S2, moved to GCCS2/XEXIT
+2025-04-13 23:31:56.191543 - Found XMALLOC.txt (text/plain) in GCC.S2, moved to GCCS2/XMALLOC
+2025-04-13 23:31:56.191603 - Found XMEMDUP.txt (text/plain) in GCC.S2, moved to GCCS2/XMEMDUP
+2025-04-13 23:31:56.191674 - Found XSTRDUP.txt (text/plain) in GCC.S2, moved to GCCS2/XSTRDUP
+2025-04-13 23:31:56.191736 - Found XSTRERRO.txt (text/plain) in GCC.S2, moved to GCCS2/XSTRERRO
+2025-04-13 23:31:56.214189 - Found PDPDOC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/PDPDOC.xmi
+2025-04-13 23:31:56.295339 - Received PDPCLIB.DOC from PDPDOC.xmi 
+2025-04-13 23:31:56.295878 - Found MVS.txt (text/plain) in PDPCLIB.DOC, moved to PDPDOC/MVS
+2025-04-13 23:31:56.296016 - Found OUTPUT.txt (text/plain) in PDPCLIB.DOC, moved to PDPDOC/OUTPUT
+2025-04-13 23:31:56.296094 - Found PDPCLIB.txt (text/plain) in PDPCLIB.DOC, moved to PDPDOC/PDPCLIB
+2025-04-13 23:31:56.296155 - Found PDPGOAL.txt (text/plain) in PDPCLIB.DOC, moved to PDPDOC/PDPGOAL
+2025-04-13 23:31:56.296214 - Found README.txt (text/plain) in PDPCLIB.DOC, moved to PDPDOC/README
+2025-04-13 23:31:56.296276 - Found TEMP.txt (text/plain) in PDPCLIB.DOC, moved to PDPDOC/TEMP
+2025-04-13 23:31:56.296596 - Found PDPINC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/PDPINC.xmi
+2025-04-13 23:31:56.422410 - Received PDPCLIB.INCLUDE from PDPINC.xmi 
+2025-04-13 23:31:56.423144 - Found @@MEMMGR.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/@@MEMMGR
+2025-04-13 23:31:56.423217 - Found ASSERT.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/ASSERT
+2025-04-13 23:31:56.423277 - Found CTYPE.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/CTYPE
+2025-04-13 23:31:56.423334 - Found ERRNO.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/ERRNO
+2025-04-13 23:31:56.423392 - Found FLOAT.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/FLOAT
+2025-04-13 23:31:56.423451 - Found LIMITS.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/LIMITS
+2025-04-13 23:31:56.423509 - Found LOCALE.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/LOCALE
+2025-04-13 23:31:56.423568 - Found MATH.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/MATH
+2025-04-13 23:31:56.423626 - Found MVSSUPA.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/MVSSUPA
+2025-04-13 23:31:56.423684 - Found SETJMP.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/SETJMP
+2025-04-13 23:31:56.423744 - Found SIGNAL.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/SIGNAL
+2025-04-13 23:31:56.423802 - Found STDARG.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/STDARG
+2025-04-13 23:31:56.423885 - Found STDDEF.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/STDDEF
+2025-04-13 23:31:56.423953 - Found STDIO.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/STDIO
+2025-04-13 23:31:56.424012 - Found STDLIB.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/STDLIB
+2025-04-13 23:31:56.424073 - Found STRING.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/STRING
+2025-04-13 23:31:56.424130 - Found TIME.txt (text/plain) in PDPCLIB.INCLUDE, moved to PDPINC/TIME
+2025-04-13 23:31:56.424711 - Found PDPLINK.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/PDPLINK.xmi
+2025-04-13 23:31:56.468807 - Received PDPCLIB.LINKLIB from PDPLINK.xmi 
+2025-04-13 23:31:56.469421 - Found COPYFILE.bin (application/octet-stream) in PDPCLIB.LINKLIB, moved to PDPLINK/COPYFILE
+2025-04-13 23:31:56.469550 - Found DSSRENAM.bin (application/octet-stream) in PDPCLIB.LINKLIB, moved to PDPLINK/DSSRENAM
+2025-04-13 23:31:56.469646 - Found HEXDUMP.bin (application/octet-stream) in PDPCLIB.LINKLIB, moved to PDPLINK/HEXDUMP
+2025-04-13 23:31:56.469751 - Found MVSENDEC.bin (application/octet-stream) in PDPCLIB.LINKLIB, moved to PDPLINK/MVSENDEC
+2025-04-13 23:31:56.469846 - Found MVSUNZIP.bin (application/octet-stream) in PDPCLIB.LINKLIB, moved to PDPLINK/MVSUNZIP
+2025-04-13 23:31:56.470178 - Found PDPMAC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/PDPMAC.xmi
+2025-04-13 23:31:56.522641 - Received PDPCLIB.MACLIB from PDPMAC.xmi 
+2025-04-13 23:31:56.523196 - Found MVSMACS.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/MVSMACS
+2025-04-13 23:31:56.523264 - Found PDPEPIL.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/PDPEPIL
+2025-04-13 23:31:56.523323 - Found PDPORIG.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/PDPORIG
+2025-04-13 23:31:56.523380 - Found PDPPRLG.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/PDPPRLG
+2025-04-13 23:31:56.523436 - Found PDPTOP.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/PDPTOP
+2025-04-13 23:31:56.523492 - Found PDP370.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/PDP370
+2025-04-13 23:31:56.523546 - Found PDP380.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/PDP380
+2025-04-13 23:31:56.523601 - Found PDP390.txt (text/plain) in PDPCLIB.MACLIB, moved to PDPMAC/PDP390
+2025-04-13 23:31:56.523970 - Found PDPNCAL.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/PDPNCAL.xmi
+2025-04-13 23:31:56.579243 - Received PDPCLIB.NCALIB from PDPNCAL.xmi 
+2025-04-13 23:31:56.582493 - Found alias @@ACLOSE to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@ACLOSE
+2025-04-13 23:31:56.582535 - Found alias @@AOPEN to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@AOPEN
+2025-04-13 23:31:56.582571 - Found alias @@AREAD to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@AREAD
+2025-04-13 23:31:56.582599 - Found alias @@ASSERT to ASSERT in PDPCLIB.NCALIB, moved to PDS/@@ASSERT
+2025-04-13 23:31:56.582632 - Found alias @@AWRITE to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@AWRITE
+2025-04-13 23:31:56.582666 - Found alias @@CRT0 to MVSSTART in PDPCLIB.NCALIB, moved to PDS/@@CRT0
+2025-04-13 23:31:56.582707 - Found alias @@DYNAL to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@DYNAL
+2025-04-13 23:31:56.582745 - Found alias @@EXIT to START in PDPCLIB.NCALIB, moved to PDS/@@EXIT
+2025-04-13 23:31:56.582779 - Found alias @@EXITA to MVSSTART in PDPCLIB.NCALIB, moved to PDS/@@EXITA
+2025-04-13 23:31:56.582812 - Found alias @@FREEM to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@FREEM
+2025-04-13 23:31:56.582843 - Found alias @@GET@ER to ERRNO in PDPCLIB.NCALIB, moved to PDS/@@GET@ER
+2025-04-13 23:31:56.582876 - Found alias @@GETCLK to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@GETCLK
+2025-04-13 23:31:56.582909 - Found alias @@GETM to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@GETM
+2025-04-13 23:31:56.582942 - Found alias @@IDCAMS to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@IDCAMS
+2025-04-13 23:31:56.582970 - Found alias @@ISBUF to CTYPE in PDPCLIB.NCALIB, moved to PDS/@@ISBUF
+2025-04-13 23:31:56.583003 - Found alias @@LOADR to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@LOADR
+2025-04-13 23:31:56.583036 - Found alias @@MANSTK to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@MANSTK
+2025-04-13 23:31:56.583148 - Found @@MEMMGR.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/@@MEMMGR
+2025-04-13 23:31:56.583215 - Found alias @@SAVER to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@SAVER
+2025-04-13 23:31:56.583254 - Found alias @@SIGDFL to SIGNAL in PDPCLIB.NCALIB, moved to PDS/@@SIGDFL
+2025-04-13 23:31:56.583291 - Found alias @@SIGERR to SIGNAL in PDPCLIB.NCALIB, moved to PDS/@@SIGERR
+2025-04-13 23:31:56.583328 - Found alias @@SIGIGN to SIGNAL in PDPCLIB.NCALIB, moved to PDS/@@SIGIGN
+2025-04-13 23:31:56.583368 - Found alias @@START to START in PDPCLIB.NCALIB, moved to PDS/@@START
+2025-04-13 23:31:56.583402 - Found alias @@SYSTEM to MVSSUPA in PDPCLIB.NCALIB, moved to PDS/@@SYSTEM
+2025-04-13 23:31:56.583437 - Found alias @@TOLOW to CTYPE in PDPCLIB.NCALIB, moved to PDS/@@TOLOW
+2025-04-13 23:31:56.583471 - Found alias @@TOUP to CTYPE in PDPCLIB.NCALIB, moved to PDS/@@TOUP
+2025-04-13 23:31:56.583540 - Found @@USEREX.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/@@USEREX
+2025-04-13 23:31:56.583624 - Found @@USERFI.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/@@USERFI
+2025-04-13 23:31:56.583680 - Found alias ABORT to STDLIB in PDPCLIB.NCALIB, moved to PDS/ABORT
+2025-04-13 23:31:56.583710 - Found alias ABS to @@USEREX in PDPCLIB.NCALIB, moved to PDS/ABS
+2025-04-13 23:31:56.583744 - Found alias ACOS to MATH in PDPCLIB.NCALIB, moved to PDS/ACOS
+2025-04-13 23:31:56.583783 - Found alias ASCTIME to TIME in PDPCLIB.NCALIB, moved to PDS/ASCTIME
+2025-04-13 23:31:56.583815 - Found alias ASIN to MATH in PDPCLIB.NCALIB, moved to PDS/ASIN
+2025-04-13 23:31:56.583890 - Found ASSERT.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/ASSERT
+2025-04-13 23:31:56.583942 - Found alias ATAN to MATH in PDPCLIB.NCALIB, moved to PDS/ATAN
+2025-04-13 23:31:56.583977 - Found alias ATAN2 to MATH in PDPCLIB.NCALIB, moved to PDS/ATAN2
+2025-04-13 23:31:56.584005 - Found alias ATEXIT to @@USEREX in PDPCLIB.NCALIB, moved to PDS/ATEXIT
+2025-04-13 23:31:56.584042 - Found alias ATOF to STDLIB in PDPCLIB.NCALIB, moved to PDS/ATOF
+2025-04-13 23:31:56.584092 - Found alias ATOI to STDLIB in PDPCLIB.NCALIB, moved to PDS/ATOI
+2025-04-13 23:31:56.584131 - Found alias ATOL to STDLIB in PDPCLIB.NCALIB, moved to PDS/ATOL
+2025-04-13 23:31:56.584159 - Found alias BSEARCH to @@USEREX in PDPCLIB.NCALIB, moved to PDS/BSEARCH
+2025-04-13 23:31:56.584196 - Found alias CALLOC to STDLIB in PDPCLIB.NCALIB, moved to PDS/CALLOC
+2025-04-13 23:31:56.584228 - Found alias CEIL to MATH in PDPCLIB.NCALIB, moved to PDS/CEIL
+2025-04-13 23:31:56.584261 - Found alias CLEARERR to PUTS in PDPCLIB.NCALIB, moved to PDS/CLEARERR
+2025-04-13 23:31:56.584299 - Found alias CLOCK to TIME in PDPCLIB.NCALIB, moved to PDS/CLOCK
+2025-04-13 23:31:56.584331 - Found alias COS to MATH in PDPCLIB.NCALIB, moved to PDS/COS
+2025-04-13 23:31:56.584364 - Found alias COSH to MATH in PDPCLIB.NCALIB, moved to PDS/COSH
+2025-04-13 23:31:56.584402 - Found alias CTIME to TIME in PDPCLIB.NCALIB, moved to PDS/CTIME
+2025-04-13 23:31:56.584471 - Found CTYPE.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/CTYPE
+2025-04-13 23:31:56.584530 - Found alias DIFFTIME to TIME in PDPCLIB.NCALIB, moved to PDS/DIFFTIME
+2025-04-13 23:31:56.584559 - Found alias DIV to @@USEREX in PDPCLIB.NCALIB, moved to PDS/DIV
+2025-04-13 23:31:56.584616 - Found ERRNO.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/ERRNO
+2025-04-13 23:31:56.584670 - Found alias EXIT to STDLIB in PDPCLIB.NCALIB, moved to PDS/EXIT
+2025-04-13 23:31:56.584705 - Found alias EXP to MATH in PDPCLIB.NCALIB, moved to PDS/EXP
+2025-04-13 23:31:56.584743 - Found alias FABS to MATH in PDPCLIB.NCALIB, moved to PDS/FABS
+2025-04-13 23:31:56.584781 - Found alias FCLOSE to STDIO in PDPCLIB.NCALIB, moved to PDS/FCLOSE
+2025-04-13 23:31:56.584808 - Found alias FEOF to @@USERFI in PDPCLIB.NCALIB, moved to PDS/FEOF
+2025-04-13 23:31:56.584836 - Found alias FERROR to @@USERFI in PDPCLIB.NCALIB, moved to PDS/FERROR
+2025-04-13 23:31:56.584870 - Found alias FFLUSH to PUTS in PDPCLIB.NCALIB, moved to PDS/FFLUSH
+2025-04-13 23:31:56.584906 - Found alias FGETC to STDIO in PDPCLIB.NCALIB, moved to PDS/FGETC
+2025-04-13 23:31:56.584940 - Found alias FGETPOS to PUTS in PDPCLIB.NCALIB, moved to PDS/FGETPOS
+2025-04-13 23:31:56.584967 - Found alias FGETS to @@USERFI in PDPCLIB.NCALIB, moved to PDS/FGETS
+2025-04-13 23:31:56.585000 - Found alias FLOOR to MATH in PDPCLIB.NCALIB, moved to PDS/FLOOR
+2025-04-13 23:31:56.585031 - Found alias FMOD to MATH in PDPCLIB.NCALIB, moved to PDS/FMOD
+2025-04-13 23:31:56.585067 - Found alias FOPEN to STDIO in PDPCLIB.NCALIB, moved to PDS/FOPEN
+2025-04-13 23:31:56.585103 - Found alias FPRINTF to STDIO in PDPCLIB.NCALIB, moved to PDS/FPRINTF
+2025-04-13 23:31:56.585138 - Found alias FPUTC to STDIO in PDPCLIB.NCALIB, moved to PDS/FPUTC
+2025-04-13 23:31:56.585167 - Found alias FPUTS to @@USERFI in PDPCLIB.NCALIB, moved to PDS/FPUTS
+2025-04-13 23:31:56.585197 - Found alias FREAD to @@USERFI in PDPCLIB.NCALIB, moved to PDS/FREAD
+2025-04-13 23:31:56.585236 - Found alias FREE to STDLIB in PDPCLIB.NCALIB, moved to PDS/FREE
+2025-04-13 23:31:56.585274 - Found alias FREOPEN to PUTS in PDPCLIB.NCALIB, moved to PDS/FREOPEN
+2025-04-13 23:31:56.585309 - Found alias FREXP to MODF in PDPCLIB.NCALIB, moved to PDS/FREXP
+2025-04-13 23:31:56.585344 - Found alias FSCANF to PUTS in PDPCLIB.NCALIB, moved to PDS/FSCANF
+2025-04-13 23:31:56.585380 - Found alias FSEEK to STDIO in PDPCLIB.NCALIB, moved to PDS/FSEEK
+2025-04-13 23:31:56.585415 - Found alias FSETPOS to PUTS in PDPCLIB.NCALIB, moved to PDS/FSETPOS
+2025-04-13 23:31:56.585452 - Found alias FTELL to PUTS in PDPCLIB.NCALIB, moved to PDS/FTELL
+2025-04-13 23:31:56.585487 - Found alias FWRITE to @@USERFI in PDPCLIB.NCALIB, moved to PDS/FWRITE
+2025-04-13 23:31:56.585517 - Found alias GETC to @@USERFI in PDPCLIB.NCALIB, moved to PDS/GETC
+2025-04-13 23:31:56.585545 - Found alias GETCHAR to @@USERFI in PDPCLIB.NCALIB, moved to PDS/GETCHAR
+2025-04-13 23:31:56.585573 - Found alias GETENV to @@USEREX in PDPCLIB.NCALIB, moved to PDS/GETENV
+2025-04-13 23:31:56.585609 - Found alias GETS to PUTS in PDPCLIB.NCALIB, moved to PDS/GETS
+2025-04-13 23:31:56.585648 - Found alias GMTIME to TIME in PDPCLIB.NCALIB, moved to PDS/GMTIME
+2025-04-13 23:31:56.585678 - Found alias ISALNUM to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISALNUM
+2025-04-13 23:31:56.585707 - Found alias ISALPHA to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISALPHA
+2025-04-13 23:31:56.585735 - Found alias ISCNTRL to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISCNTRL
+2025-04-13 23:31:56.585764 - Found alias ISDIGIT to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISDIGIT
+2025-04-13 23:31:56.585797 - Found alias ISGRAPH to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISGRAPH
+2025-04-13 23:31:56.585827 - Found alias ISLOWER to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISLOWER
+2025-04-13 23:31:56.585856 - Found alias ISPRINT to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISPRINT
+2025-04-13 23:31:56.585885 - Found alias ISPUNCT to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISPUNCT
+2025-04-13 23:31:56.585913 - Found alias ISSPACE to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISSPACE
+2025-04-13 23:31:56.585941 - Found alias ISUPPER to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISUPPER
+2025-04-13 23:31:56.585970 - Found alias ISXDIGIT to CTYPE in PDPCLIB.NCALIB, moved to PDS/ISXDIGIT
+2025-04-13 23:31:56.585996 - Found alias LABS to @@USEREX in PDPCLIB.NCALIB, moved to PDS/LABS
+2025-04-13 23:31:56.586030 - Found alias LDEXP to MODF in PDPCLIB.NCALIB, moved to PDS/LDEXP
+2025-04-13 23:31:56.586058 - Found alias LDIV to @@USEREX in PDPCLIB.NCALIB, moved to PDS/LDIV
+2025-04-13 23:31:56.586141 - Found LOCALE.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/LOCALE
+2025-04-13 23:31:56.586194 - Found alias LOCALECO to LOCALE in PDPCLIB.NCALIB, moved to PDS/LOCALECO
+2025-04-13 23:31:56.586235 - Found alias LOCALTIM to TIME in PDPCLIB.NCALIB, moved to PDS/LOCALTIM
+2025-04-13 23:31:56.586269 - Found alias LOG to MATH in PDPCLIB.NCALIB, moved to PDS/LOG
+2025-04-13 23:31:56.586303 - Found alias LOG10 to MODF in PDPCLIB.NCALIB, moved to PDS/LOG10
+2025-04-13 23:31:56.586340 - Found alias LONGJMP to SETJMP in PDPCLIB.NCALIB, moved to PDS/LONGJMP
+2025-04-13 23:31:56.586382 - Found alias MALLOC to STDLIB in PDPCLIB.NCALIB, moved to PDS/MALLOC
+2025-04-13 23:31:56.586447 - Found MATH.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/MATH
+2025-04-13 23:31:56.586510 - Found alias MBLEN to STDLIB in PDPCLIB.NCALIB, moved to PDS/MBLEN
+2025-04-13 23:31:56.586542 - Found alias MBSTOWCS to @@USEREX in PDPCLIB.NCALIB, moved to PDS/MBSTOWCS
+2025-04-13 23:31:56.586572 - Found alias MBTOWC to @@USEREX in PDPCLIB.NCALIB, moved to PDS/MBTOWC
+2025-04-13 23:31:56.586610 - Found alias MEMCHR to STRING in PDPCLIB.NCALIB, moved to PDS/MEMCHR
+2025-04-13 23:31:56.586649 - Found alias MEMCMP to STRING in PDPCLIB.NCALIB, moved to PDS/MEMCMP
+2025-04-13 23:31:56.586713 - Found MEMCPY.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/MEMCPY
+2025-04-13 23:31:56.586770 - Found alias MEMMOVE to STRING in PDPCLIB.NCALIB, moved to PDS/MEMMOVE
+2025-04-13 23:31:56.586806 - Found alias MEMSET to MEMCPY in PDPCLIB.NCALIB, moved to PDS/MEMSET
+2025-04-13 23:31:56.586845 - Found alias MKTIME to TIME in PDPCLIB.NCALIB, moved to PDS/MKTIME
+2025-04-13 23:31:56.586908 - Found MODF.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/MODF
+2025-04-13 23:31:56.586971 - Found MVSSTART.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/MVSSTART
+2025-04-13 23:31:56.587038 - Found MVSSUPA.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/MVSSUPA
+2025-04-13 23:31:56.587092 - Found alias PERROR to PUTS in PDPCLIB.NCALIB, moved to PDS/PERROR
+2025-04-13 23:31:56.587132 - Found alias POW to MODF in PDPCLIB.NCALIB, moved to PDS/POW
+2025-04-13 23:31:56.587175 - Found alias PRINTF to STDIO in PDPCLIB.NCALIB, moved to PDS/PRINTF
+2025-04-13 23:31:56.587205 - Found alias PUTC to @@USERFI in PDPCLIB.NCALIB, moved to PDS/PUTC
+2025-04-13 23:31:56.587234 - Found alias PUTCHAR to @@USERFI in PDPCLIB.NCALIB, moved to PDS/PUTCHAR
+2025-04-13 23:31:56.587314 - Found PUTS.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/PUTS
+2025-04-13 23:31:56.587368 - Found alias QSORT to STDLIB in PDPCLIB.NCALIB, moved to PDS/QSORT
+2025-04-13 23:31:56.587407 - Found alias RAISE to SIGNAL in PDPCLIB.NCALIB, moved to PDS/RAISE
+2025-04-13 23:31:56.587445 - Found alias RAND to STDLIB in PDPCLIB.NCALIB, moved to PDS/RAND
+2025-04-13 23:31:56.587489 - Found alias REALLOC to STDLIB in PDPCLIB.NCALIB, moved to PDS/REALLOC
+2025-04-13 23:31:56.587532 - Found alias REMOVE to STDIO in PDPCLIB.NCALIB, moved to PDS/REMOVE
+2025-04-13 23:31:56.587572 - Found alias RENAME to STDIO in PDPCLIB.NCALIB, moved to PDS/RENAME
+2025-04-13 23:31:56.587608 - Found alias REWIND to PUTS in PDPCLIB.NCALIB, moved to PDS/REWIND
+2025-04-13 23:31:56.587643 - Found alias SCANF to PUTS in PDPCLIB.NCALIB, moved to PDS/SCANF
+2025-04-13 23:31:56.587678 - Found alias SETBUF to PUTS in PDPCLIB.NCALIB, moved to PDS/SETBUF
+2025-04-13 23:31:56.587741 - Found SETJMP.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/SETJMP
+2025-04-13 23:31:56.587791 - Found alias SETLOCAL to LOCALE in PDPCLIB.NCALIB, moved to PDS/SETLOCAL
+2025-04-13 23:31:56.587838 - Found alias SETVBUF to PUTS in PDPCLIB.NCALIB, moved to PDS/SETVBUF
+2025-04-13 23:31:56.587903 - Found SIGNAL.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/SIGNAL
+2025-04-13 23:31:56.587955 - Found alias SIN to MATH in PDPCLIB.NCALIB, moved to PDS/SIN
+2025-04-13 23:31:56.587991 - Found alias SINH to MATH in PDPCLIB.NCALIB, moved to PDS/SINH
+2025-04-13 23:31:56.588030 - Found alias SPRINTF to STDIO in PDPCLIB.NCALIB, moved to PDS/SPRINTF
+2025-04-13 23:31:56.588066 - Found alias SQRT to MODF in PDPCLIB.NCALIB, moved to PDS/SQRT
+2025-04-13 23:31:56.588104 - Found alias SRAND to STDLIB in PDPCLIB.NCALIB, moved to PDS/SRAND
+2025-04-13 23:31:56.588143 - Found alias SSCANF to PUTS in PDPCLIB.NCALIB, moved to PDS/SSCANF
+2025-04-13 23:31:56.588203 - Found START.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/START
+2025-04-13 23:31:56.588259 - Found alias STDERR to STDIO in PDPCLIB.NCALIB, moved to PDS/STDERR
+2025-04-13 23:31:56.588299 - Found alias STDIN to STDIO in PDPCLIB.NCALIB, moved to PDS/STDIN
+2025-04-13 23:31:56.588378 - Found STDIO.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/STDIO
+2025-04-13 23:31:56.588444 - Found STDLIB.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/STDLIB
+2025-04-13 23:31:56.588506 - Found alias STDOUT to STDIO in PDPCLIB.NCALIB, moved to PDS/STDOUT
+2025-04-13 23:31:56.588551 - Found alias STRCAT to STRING in PDPCLIB.NCALIB, moved to PDS/STRCAT
+2025-04-13 23:31:56.588591 - Found alias STRCHR to STRING in PDPCLIB.NCALIB, moved to PDS/STRCHR
+2025-04-13 23:31:56.588629 - Found alias STRCMP to STRING in PDPCLIB.NCALIB, moved to PDS/STRCMP
+2025-04-13 23:31:56.588698 - Found alias STRCOLL to STRING in PDPCLIB.NCALIB, moved to PDS/STRCOLL
+2025-04-13 23:31:56.588759 - Found alias STRCPY to STRING in PDPCLIB.NCALIB, moved to PDS/STRCPY
+2025-04-13 23:31:56.588801 - Found alias STRCSPN to STRING in PDPCLIB.NCALIB, moved to PDS/STRCSPN
+2025-04-13 23:31:56.588836 - Found alias STRERROR to MEMCPY in PDPCLIB.NCALIB, moved to PDS/STRERROR
+2025-04-13 23:31:56.588876 - Found alias STRFTIME to TIME in PDPCLIB.NCALIB, moved to PDS/STRFTIME
+2025-04-13 23:31:56.588950 - Found STRING.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/STRING
+2025-04-13 23:31:56.589005 - Found alias STRLEN to MEMCPY in PDPCLIB.NCALIB, moved to PDS/STRLEN
+2025-04-13 23:31:56.589046 - Found alias STRNCAT to STRING in PDPCLIB.NCALIB, moved to PDS/STRNCAT
+2025-04-13 23:31:56.589086 - Found alias STRNCMP to STRING in PDPCLIB.NCALIB, moved to PDS/STRNCMP
+2025-04-13 23:31:56.589124 - Found alias STRNCPY to STRING in PDPCLIB.NCALIB, moved to PDS/STRNCPY
+2025-04-13 23:31:56.589165 - Found alias STRPBRK to STRING in PDPCLIB.NCALIB, moved to PDS/STRPBRK
+2025-04-13 23:31:56.589205 - Found alias STRRCHR to STRING in PDPCLIB.NCALIB, moved to PDS/STRRCHR
+2025-04-13 23:31:56.589243 - Found alias STRSPN to STRING in PDPCLIB.NCALIB, moved to PDS/STRSPN
+2025-04-13 23:31:56.589277 - Found alias STRSTR to MEMCPY in PDPCLIB.NCALIB, moved to PDS/STRSTR
+2025-04-13 23:31:56.589314 - Found alias STRTOD to STDLIB in PDPCLIB.NCALIB, moved to PDS/STRTOD
+2025-04-13 23:31:56.589348 - Found alias STRTOK to MEMCPY in PDPCLIB.NCALIB, moved to PDS/STRTOK
+2025-04-13 23:31:56.589388 - Found alias STRTOL to STDLIB in PDPCLIB.NCALIB, moved to PDS/STRTOL
+2025-04-13 23:31:56.589426 - Found alias STRTOUL to STDLIB in PDPCLIB.NCALIB, moved to PDS/STRTOUL
+2025-04-13 23:31:56.589463 - Found alias STRXFRM to STRING in PDPCLIB.NCALIB, moved to PDS/STRXFRM
+2025-04-13 23:31:56.589491 - Found alias SYSTEM to @@USEREX in PDPCLIB.NCALIB, moved to PDS/SYSTEM
+2025-04-13 23:31:56.589536 - Found alias TAN to MATH in PDPCLIB.NCALIB, moved to PDS/TAN
+2025-04-13 23:31:56.589572 - Found alias TANH to MATH in PDPCLIB.NCALIB, moved to PDS/TANH
+2025-04-13 23:31:56.589639 - Found TIME.bin (application/octet-stream) in PDPCLIB.NCALIB, moved to PDPNCAL/TIME
+2025-04-13 23:31:56.589694 - Found alias TMPFILE to PUTS in PDPCLIB.NCALIB, moved to PDS/TMPFILE
+2025-04-13 23:31:56.589733 - Found alias TMPNAM to PUTS in PDPCLIB.NCALIB, moved to PDS/TMPNAM
+2025-04-13 23:31:56.589763 - Found alias TOLOWER to CTYPE in PDPCLIB.NCALIB, moved to PDS/TOLOWER
+2025-04-13 23:31:56.589794 - Found alias TOUPPER to CTYPE in PDPCLIB.NCALIB, moved to PDS/TOUPPER
+2025-04-13 23:31:56.589832 - Found alias UNGETC to STDIO in PDPCLIB.NCALIB, moved to PDS/UNGETC
+2025-04-13 23:31:56.589870 - Found alias VFPRINTF to STDIO in PDPCLIB.NCALIB, moved to PDS/VFPRINTF
+2025-04-13 23:31:56.589907 - Found alias VSPRINTF to STDIO in PDPCLIB.NCALIB, moved to PDS/VSPRINTF
+2025-04-13 23:31:56.589935 - Found alias WCSTOMBS to @@USEREX in PDPCLIB.NCALIB, moved to PDS/WCSTOMBS
+2025-04-13 23:31:56.589964 - Found alias WCTOMB to @@USEREX in PDPCLIB.NCALIB, moved to PDS/WCTOMB
+2025-04-13 23:31:56.593195 - Found PDPSRC.xmi (application/xmit) in CBT.V508.FILE853.PDS, moved to PDS/PDPSRC.xmi
+2025-04-13 23:31:57.195441 - Received PDPCLIB.SOURCE from PDPSRC.xmi 
+2025-04-13 23:31:57.196953 - Found @@MEMMGR.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/@@MEMMGR
+2025-04-13 23:31:57.197036 - Found ASSERT.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/ASSERT
+2025-04-13 23:31:57.197108 - Found CMSSTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/CMSSTART
+2025-04-13 23:31:57.197188 - Found CMSSUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/CMSSUPA
+2025-04-13 23:31:57.197250 - Found COPYFILE.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/COPYFILE
+2025-04-13 23:31:57.197321 - Found CTYPE.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/CTYPE
+2025-04-13 23:31:57.197381 - Found DOSSTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/DOSSTART
+2025-04-13 23:31:57.197448 - Found DOSSUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/DOSSUPA
+2025-04-13 23:31:57.197508 - Found DOSSUPC.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/DOSSUPC
+2025-04-13 23:31:57.197570 - Found DSSRENAM.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/DSSRENAM
+2025-04-13 23:31:57.197630 - Found ERRNO.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/ERRNO
+2025-04-13 23:31:57.197688 - Found EXTZIP.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/EXTZIP
+2025-04-13 23:31:57.197746 - Found FOLKS.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/FOLKS
+2025-04-13 23:31:57.197816 - Found FPFUNCSB.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/FPFUNCSB
+2025-04-13 23:31:57.197880 - Found FPFUNCSC.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/FPFUNCSC
+2025-04-13 23:31:57.197939 - Found FPFUNCSG.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/FPFUNCSG
+2025-04-13 23:31:57.197998 - Found FPFUNCSW.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/FPFUNCSW
+2025-04-13 23:31:57.198065 - Found HEXDUMP.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/HEXDUMP
+2025-04-13 23:31:57.198141 - Found LINSTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/LINSTART
+2025-04-13 23:31:57.198203 - Found LINSUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/LINSUPA
+2025-04-13 23:31:57.198261 - Found LOCALE.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/LOCALE
+2025-04-13 23:31:57.198330 - Found MATH.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/MATH
+2025-04-13 23:31:57.198388 - Found MEMTEST.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/MEMTEST
+2025-04-13 23:31:57.198450 - Found MUSSTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/MUSSTART
+2025-04-13 23:31:57.198524 - Found MUSSUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/MUSSUPA
+2025-04-13 23:31:57.198586 - Found MVSENDEC.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/MVSENDEC
+2025-04-13 23:31:57.198649 - Found MVSSTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/MVSSTART
+2025-04-13 23:31:57.198773 - Found MVSSUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/MVSSUPA
+2025-04-13 23:31:57.198843 - Found MVSUNZIP.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/MVSUNZIP
+2025-04-13 23:31:57.198902 - Found NAMCSECT.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/NAMCSECT
+2025-04-13 23:31:57.198964 - Found OSSTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/OSSTART
+2025-04-13 23:31:57.199023 - Found PDOSST32.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/PDOSST32
+2025-04-13 23:31:57.199092 - Found PDOSSUPC.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/PDOSSUPC
+2025-04-13 23:31:57.199162 - Found PDPTEST.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/PDPTEST
+2025-04-13 23:31:57.199221 - Found PERF1.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/PERF1
+2025-04-13 23:31:57.199279 - Found PERF2.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/PERF2
+2025-04-13 23:31:57.199337 - Found PERF3.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/PERF3
+2025-04-13 23:31:57.199395 - Found PERF4.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/PERF4
+2025-04-13 23:31:57.199458 - Found SAPSTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/SAPSTART
+2025-04-13 23:31:57.199535 - Found SAPSUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/SAPSUPA
+2025-04-13 23:31:57.199595 - Found SETJMP.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/SETJMP
+2025-04-13 23:31:57.199652 - Found SIGNAL.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/SIGNAL
+2025-04-13 23:31:57.199739 - Found START.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/START
+2025-04-13 23:31:57.199997 - Found STDIO.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/STDIO
+2025-04-13 23:31:57.200114 - Found STDLIB.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/STDLIB
+2025-04-13 23:31:57.200219 - Found STRING.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/STRING
+2025-04-13 23:31:57.200298 - Found STRINGA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/STRINGA
+2025-04-13 23:31:57.200372 - Found TIME.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/TIME
+2025-04-13 23:31:57.200433 - Found VSEMANIP.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/VSEMANIP
+2025-04-13 23:31:57.200492 - Found VSEPROC.x-c (text/x-c) in PDPCLIB.SOURCE, moved to PDPSRC/VSEPROC
+2025-04-13 23:31:57.200554 - Found VSESTART.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/VSESTART
+2025-04-13 23:31:57.200639 - Found VSESUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/VSESUPA
+2025-04-13 23:31:57.200699 - Found WINSUPA.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/WINSUPA
+2025-04-13 23:31:57.200756 - Found WINSUPB.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/WINSUPB
+2025-04-13 23:31:57.200814 - Found W32START.txt (text/plain) in PDPCLIB.SOURCE, moved to PDPSRC/W32START
+2025-04-13 23:31:57.201855 - Found XMIT1.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT1
+2025-04-13 23:31:57.201923 - Found XMIT2.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT2
+2025-04-13 23:31:57.201984 - Found XMIT3.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT3
+2025-04-13 23:31:57.202042 - Found XMIT4.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT4
+2025-04-13 23:31:57.202099 - Found XMIT5.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT5
+2025-04-13 23:31:57.202202 - Found XMIT6.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT6
+2025-04-13 23:31:57.202289 - Found XMIT7.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT7
+2025-04-13 23:31:57.202382 - Found XMIT8.jcl (text/plain) in CBT.V508.FILE853.PDS, moved to PDS/XMIT8
